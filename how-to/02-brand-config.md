@@ -22,8 +22,6 @@ title: "品牌配置"
 - 管理品牌级与产品级预设问题。
 - 开启或关闭 AI 平台跟踪。
 
-![品牌配置四分区](./assets/brand-config/01-four-sections.png)
-
 ---
 
 ## 前置条件
