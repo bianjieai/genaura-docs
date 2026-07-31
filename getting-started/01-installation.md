@@ -75,7 +75,7 @@ GenAura 为不同平台提供以下安装包类型：
 5. 点击「安装」开始复制文件。
 6. 安装完成后，勾选「启动 GenAura」并点击「完成」。
 
-![Windows 安装向导选择安装目录](./assets/installation/03-windows-setup-directory.png)
+![Image](/images/image-8.png "Image")
 
 #### 3.2 使用便携版
 

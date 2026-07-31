@@ -34,7 +34,7 @@ GenAura 桌面应用本身不提供账号注册入口，所有账号体系、订
 - 蓝色「使用网页登录」按钮
 - 底部的《用户协议》《隐私政策》链接
 
-![Image](/images/image-6.png "Image")
+![Image](/images/image-7.png "Image")
 
 ### 2. 点击「使用网页登录」
 
