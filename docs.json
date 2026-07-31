@@ -1,0 +1,90 @@
+{
+  "theme": "mint",
+  "name": "GenAura",
+  "colors": {
+    "primary": "#0057ff",
+    "light": "#0066ff",
+    "dark": "#0057ff"
+  },
+  "logo": {
+    "light": "https://media.brand.dev/fc5ead7f-f963-4dd8-bacd-680068bb8dee.png",
+    "dark": "/images/GenAura-Horizontal-White.png"
+  },
+  "favicon": {
+    "light": "https://media.brand.dev/282139df-eae1-458c-b392-8c769e45b07a.png",
+    "dark": "/images/GenAura-Horizontal-White.png"
+  },
+  "navbar": {
+    "primary": {
+      "type": "button",
+      "label": "Download App",
+      "href": "https://genaura.bianjie.ai/resources/downloads"
+    },
+    "links": []
+  },
+  "footer": {
+    "socials": {
+      "website": "https://genaura.bianjie.ai/"
+    }
+  },
+  "description": "用户手册｜涵盖 GenAura 品牌知识库搭建、AI 诊断分析、智能写稿一键发布、效果追踪全流程操作指南，助你快速提升品牌 AI 声量。",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "get-started/introduction",
+              "get-started/quickstart",
+              "get-started/installation"
+            ]
+          },
+          {
+            "group": "Core Concepts",
+            "pages": [
+              "concepts/geo-overview",
+              "concepts/brand-knowledge-base",
+              "concepts/credits"
+            ]
+          },
+          {
+            "group": "Products",
+            "pages": [
+              "products/brand-optimization",
+              "products/website-optimization",
+              "products/commerce-optimization",
+              "products/ecommerce-optimization"
+            ]
+          },
+          {
+            "group": "Guides",
+            "pages": [
+              "guides/brand-diagnosis",
+              "guides/ai-monitoring",
+              "guides/content-generation",
+              "guides/one-click-publishing",
+              "guides/task-tracking"
+            ]
+          },
+          {
+            "group": "Plans & Billing",
+            "pages": [
+              "billing/plans",
+              "billing/credits",
+              "billing/faq"
+            ]
+          },
+          {
+            "group": "Support",
+            "pages": [
+              "support/faq",
+              "support/contact"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
