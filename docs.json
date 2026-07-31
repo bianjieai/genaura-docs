@@ -29,75 +29,70 @@
   },
   "description": "用户手册｜涵盖 GenAura 品牌知识库搭建、AI 诊断分析、智能写稿一键发布、效果追踪全流程操作指南，助你快速提升品牌 AI 声量。",
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Documentation",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "getting-started/01-installation",
-              "getting-started/02-login-account",
-              "getting-started/03-onboarding",
-              "getting-started/04-interface-overview"
-            ]
-          },
-          {
-            "group": "Core Concepts",
-            "pages": [
-              "concepts/01-brand-model",
-              "concepts/02-workflow",
-              "concepts/03-insight-data",
-              "concepts/04-ai-agent",
-              "concepts/05-opportunity-risk"
-            ]
-          },
-          {
-            "group": "How-to Guides",
-            "pages": [
-              "how-to/01-brand-management",
-              "how-to/02-brand-config",
-              "how-to/03-chat-management",
-              "how-to/04-messaging",
-              "how-to/05-commands-mentions",
-              "how-to/06-sub-agent-approval",
-              "how-to/07-opportunities-risks",
-              "how-to/08-knowledge-base",
-              "how-to/09-file-editor",
-              "how-to/10-browser",
-              "how-to/11-ai-platform-workflows",
-              "how-to/12-cron-tasks",
-              "how-to/13-article-publish",
-              "how-to/14-insight",
-              "how-to/15-emotion-analysis",
-              "how-to/16-preference-insight"
-            ]
-          },
-          {
-            "group": "Tutorials",
-            "pages": [
-              "tutorials/01-first-brand",
-              "tutorials/02-brand-monitoring",
-              "tutorials/03-content-publish"
-            ]
-          },
-          {
-            "group": "Reference",
-            "pages": [
-              "reference/01-settings",
-              "reference/02-update-maintenance",
-              "reference/03-data-privacy",
-              "reference/04-keyboard-shortcuts"
-            ]
-          },
-          {
-            "group": "Resources",
-            "pages": [
-              "faq",
-              "glossary",
-              "troubleshooting"
-            ]
-          }
+        "group": "快速入门",
+        "pages": [
+          "getting-started/01-installation",
+          "getting-started/02-login-account",
+          "getting-started/03-onboarding",
+          "getting-started/04-interface-overview"
+        ]
+      },
+      {
+        "group": "核心概念",
+        "pages": [
+          "concepts/01-brand-model",
+          "concepts/02-workflow",
+          "concepts/03-insight-data",
+          "concepts/04-ai-agent",
+          "concepts/05-opportunity-risk"
+        ]
+      },
+      {
+        "group": "操作指南",
+        "pages": [
+          "how-to/01-brand-management",
+          "how-to/02-brand-config",
+          "how-to/03-chat-management",
+          "how-to/04-messaging",
+          "how-to/05-commands-mentions",
+          "how-to/06-sub-agent-approval",
+          "how-to/07-opportunities-risks",
+          "how-to/08-knowledge-base",
+          "how-to/09-file-editor",
+          "how-to/10-browser",
+          "how-to/11-ai-platform-workflows",
+          "how-to/12-cron-tasks",
+          "how-to/13-article-publish",
+          "how-to/14-insight",
+          "how-to/15-emotion-analysis",
+          "how-to/16-preference-insight"
+        ]
+      },
+      {
+        "group": "教程",
+        "pages": [
+          "tutorials/01-first-brand",
+          "tutorials/02-brand-monitoring",
+          "tutorials/03-content-publish"
+        ]
+      },
+      {
+        "group": "配置",
+        "pages": [
+          "reference/01-settings",
+          "reference/02-update-maintenance",
+          "reference/03-data-privacy",
+          "reference/04-keyboard-shortcuts"
+        ]
+      },
+      {
+        "group": "支持",
+        "pages": [
+          "faq",
+          "glossary",
+          "troubleshooting"
         ]
       }
     ]

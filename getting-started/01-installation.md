@@ -1,4 +1,6 @@
-# 安装指南
+---
+title: "安装指南"
+---
 
 ## 概述
 
@@ -15,7 +17,7 @@ GenAura 是一款桌面端品牌 GEO（生成式引擎优化）助手，帮你�
 ### 系统要求
 
 | 项目 | macOS | Windows |
-|---|---|---|
+| --- | --- | --- |
 | 操作系统版本 | macOS 12.0（Monterey）或更高 | Windows 10 / Windows 11（64 位） |
 | 处理器架构 | Apple Silicon（M1/M2/M3…）或 Intel x64 | x64 架构 |
 | 内存 | 建议 8 GB 及以上 | 建议 8 GB 及以上 |
@@ -33,12 +35,12 @@ GenAura 是一款桌面端品牌 GEO（生成式引擎优化）助手，帮你�
 
 ### 1. 下载安装包
 
-请通过官方渠道获取对应平台的安装包，**不要从未经授权的第三方站点下载**，以免下载到被篡改的版本。
+请通过[官方渠道](https://genaura.bianjie.ai/resources/downloads)获取对应平台的安装包，**不要从未经授权的第三方站点下载**，以免下载到被篡改的版本。
 
 GenAura 为不同平台提供以下安装包类型：
 
 | 平台 | 安装包类型 | 适用场景 |
-|---|---|---|
+| --- | --- | --- |
 | macOS | `.dmg` 安装镜像 | 推荐，标准安装方式 |
 | macOS | `.zip` 压缩包 | 适合通过企业分发工具部署 |
 | Windows | `Setup.exe` 安装程序 | 推荐，可自定义安装目录、支持后续自动更新 |
@@ -46,7 +48,7 @@ GenAura 为不同平台提供以下安装包类型：
 
 下载时请选择与你电脑处理器架构匹配的版本（macOS 通常下载 Apple Silicon 版本；Windows 下载 x64 版本）。
 
-![下载页选择对应平台安装包](./assets/installation/01-download-select-package.png)
+![A5AD2C84 7E9B 45B8 85AE E60C0C323935](/images/A5AD2C84-7E9B-45B8-85AE-E60C0C323935.png "A5AD2C84 7E9B 45B8 85AE E60C0C323935")
 
 ### 2. macOS 安装
 
@@ -56,9 +58,9 @@ GenAura 为不同平台提供以下安装包类型：
 4. **首次启动**：双击 GenAura 图标。由于应用未经苹果公证，系统可能弹出"无法打开'GenAura'，因为无法验证开发者"的提示。此时请：
    - 关闭弹窗，打开「系统设置 → 隐私与安全性」
    - 滚动到页面底部，找到提示"已阻止使用 'GenAura'"的条目
-   - 点击「仍要打开」，再次确认即可
+   - 点击「仍要打开」，再次确认即
 
-![macOS 拖拽安装到 Applications](./assets/installation/02-macos-drag-install.png)
+![Image](/images/image-2.png "Image")
 
 > 提示：也可以在终端中执行 `xattr -dr com.apple.quarantine /Applications/GenAura.app` 来一次性解除隔离属性，但更推荐使用系统设置中的「仍要打开」按钮。
 
@@ -115,7 +117,7 @@ GenAura 支持深链接协议。安装后，浏览器或网页中的 `genaura://
 GenAura 将数据保存在系统标准用户数据目录下：
 
 | 平台 | 默认数据目录 |
-|---|---|
+| --- | --- |
 | macOS | `~/Library/Application Support/GenAura` |
 | Windows | `%APPDATA%\GenAura` |
 
