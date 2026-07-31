@@ -22,6 +22,8 @@ title: "品牌配置"
 - 管理品牌级与产品级预设问题。
 - 开启或关闭 AI 平台跟踪。
 
+![CF1B7A4A FEFF 4D03 9A2A FE17789AAC8F](/images/CF1B7A4A-FEFF-4D03-9A2A-FE17789AAC8F.png "CF1B7A4A FEFF 4D03 9A2A FE17789AAC8F")
+
 ---
 
 ## 前置条件
