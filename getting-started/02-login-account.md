@@ -45,7 +45,7 @@ GenAura 桌面应用本身不提供账号注册入口，所有账号体系、订
 3. 登录成功后，浏览器会通过 `genaura://` 协议自动唤起桌面应用，并自动完成授权换 token。
 4. 桌面应用自动跳转到品牌工作区，登录完成。
 
-![点击使用网页登录后浏览器自动打开](./assets/login-account/02-web-login-redirect.png)
+![Image](/images/image-8.png "Image")
 
 > 提示：如果浏览器没有自动打开，请检查系统是否将 `genaura://` 协议关联到 GenAura 应用。也可以手动复制浏览器地址栏中的登录链接，登录完成后回到 GenAura 应用即可。
 
@@ -66,7 +66,7 @@ GenAura 桌面应用本身不提供账号注册入口，所有账号体系、订
 - 左侧：默认头像 \+ 用户名（或掩码手机号）
 - 右侧：当前订阅套餐标签（如 `Trial`、`Pro`，名称取自你的订阅计划）
 
-![左下角账户菜单按钮](./assets/login-account/03-account-menu-button.png)
+![Image](/images/image-14.png "Image")
 
 点击该按钮会向上弹出账户菜单，包含以下条目：
 
@@ -79,7 +79,7 @@ GenAura 桌面应用本身不提供账号注册入口，所有账号体系、订
 | 主题 | 切换浅色 / 深色 / 跟随系统主题 |
 | 退出登录 | 退出当前账号，清除本地登录凭据，返回登录页 |
 
-![账户菜单弹出项](./assets/login-account/04-account-menu-popover.png)
+![Image](/images/image-13.png "Image")
 
 ### 5. 查看与修改订阅
 
