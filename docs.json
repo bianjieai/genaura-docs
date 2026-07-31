@@ -36,51 +36,66 @@
           {
             "group": "Get Started",
             "pages": [
-              "get-started/introduction",
-              "get-started/quickstart",
-              "get-started/installation"
+              "getting-started/01-installation",
+              "getting-started/02-login-account",
+              "getting-started/03-onboarding",
+              "getting-started/04-interface-overview"
             ]
           },
           {
             "group": "Core Concepts",
             "pages": [
-              "concepts/geo-overview",
-              "concepts/brand-knowledge-base",
-              "concepts/credits"
+              "concepts/01-brand-model",
+              "concepts/02-workflow",
+              "concepts/03-insight-data",
+              "concepts/04-ai-agent",
+              "concepts/05-opportunity-risk"
             ]
           },
           {
-            "group": "Products",
+            "group": "How-to Guides",
             "pages": [
-              "products/brand-optimization",
-              "products/website-optimization",
-              "products/commerce-optimization",
-              "products/ecommerce-optimization"
+              "how-to/01-brand-management",
+              "how-to/02-brand-config",
+              "how-to/03-chat-management",
+              "how-to/04-messaging",
+              "how-to/05-commands-mentions",
+              "how-to/06-sub-agent-approval",
+              "how-to/07-opportunities-risks",
+              "how-to/08-knowledge-base",
+              "how-to/09-file-editor",
+              "how-to/10-browser",
+              "how-to/11-ai-platform-workflows",
+              "how-to/12-cron-tasks",
+              "how-to/13-article-publish",
+              "how-to/14-insight",
+              "how-to/15-emotion-analysis",
+              "how-to/16-preference-insight"
             ]
           },
           {
-            "group": "Guides",
+            "group": "Tutorials",
             "pages": [
-              "guides/brand-diagnosis",
-              "guides/ai-monitoring",
-              "guides/content-generation",
-              "guides/one-click-publishing",
-              "guides/task-tracking"
+              "tutorials/01-first-brand",
+              "tutorials/02-brand-monitoring",
+              "tutorials/03-content-publish"
             ]
           },
           {
-            "group": "Plans & Billing",
+            "group": "Reference",
             "pages": [
-              "billing/plans",
-              "billing/credits",
-              "billing/faq"
+              "reference/01-settings",
+              "reference/02-update-maintenance",
+              "reference/03-data-privacy",
+              "reference/04-keyboard-shortcuts"
             ]
           },
           {
-            "group": "Support",
+            "group": "Resources",
             "pages": [
-              "support/faq",
-              "support/contact"
+              "faq",
+              "glossary",
+              "troubleshooting"
             ]
           }
         ]
