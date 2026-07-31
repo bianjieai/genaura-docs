@@ -60,7 +60,7 @@ GenAura 为不同平台提供以下安装包类型：
    - 滚动到页面底部，找到提示"已阻止使用 'GenAura'"的条目
    - 点击「仍要打开」，再次确认即
 
-![Image](/images/image-2.png "Image")
+![Image](/images/image-4.png "Image")
 
 > 提示：也可以在终端中执行 `xattr -dr com.apple.quarantine /Applications/GenAura.app` 来一次性解除隔离属性，但更推荐使用系统设置中的「仍要打开」按钮。
 
@@ -89,9 +89,13 @@ GenAura 为不同平台提供以下安装包类型：
 
 无论哪个平台，首次启动 GenAura 后会出现以下流程：
 
-1. **登录页面**：显示 GenAura Logo、欢迎语与「使用网页登录」按钮（详见 [登录与账户](./02-login-account.md)）。
+1. **登录页面**：显示 GenAura Logo、欢迎语与「使用网页登录」按钮（详见 [登录与账户](/getting-started/02-login-account)）。
 2. **完成登录**：点击「使用网页登录」后，系统默认浏览器会打开登录页面，按提示完成账号登录，登录成功后会自动跳回 GenAura 应用。
 3. **品牌工作区**：登录成功后进入主工作区。如果是新账号或首次进入，会自动弹出 [新手引导](./03-onboarding.md)，并引导你创建第一个品牌。
+
+<Frame>
+  ![Image](/images/image-5.png "Image")
+</Frame>
 
 ![首次启动后的登录页](./assets/installation/04-first-launch-login.png)
 
