@@ -65,7 +65,7 @@ flowchart LR
 - **说明**：输入问题，或点击下方快捷指令，即可开始品牌 GEO 诊断、生成 GEO 文章。
 - **价值**：告诉你 GenAura 的主要交互入口是对话
 
-![Image](/images/image-16.png "Image")
+![Image](/images/image-25.png "Image")
 
 #### 步骤 3：知识库
 

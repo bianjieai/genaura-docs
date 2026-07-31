@@ -87,7 +87,7 @@ GenAura 桌面应用采用 **三栏工作区** 布局，让你在与 Agent 对�
 
 新对话状态下，消息流区域会显示欢迎界面与快捷指令建议（如"品牌 GEO 诊断""生成 GEO 文章""优化品牌知识库"）。详细操作见 [消息发送与渲染](../how-to/04-messaging.md) 与 [命令与 @提及](../how-to/05-commands-mentions.md)。
 
-![中间聊天区结构](./assets/interface-overview/03-chat-area.png)
+![Group 71](/images/Group-71.png "Group 71")
 
 ### 4. 右侧面板
 
@@ -107,7 +107,7 @@ Tab 栏从左到右依次是 **7 个 Tab**：
 | 6 | 定时任务 | 时钟 | 配置 AI 平台问答跟踪等定时任务，查看运行状态 |
 | 7 | 浏览器 | 地球 | 内嵌浏览器，支持 Agent 自主浏览与用户手动浏览，可接管控制 |
 
-![右侧面板 7 个 Tab](./assets/interface-overview/04-right-panel-tabs.png)
+![Group 71](/images/Group-71-3.png "Group 71")
 
 > 说明：
 >
@@ -160,7 +160,7 @@ Tab 栏下方是当前选中 Tab 的内容区。切换 Tab 时，内容区会加
 | 最大化右侧面板 | Tab 栏右侧的「最大化」按钮 | 隐藏左侧导航与中间聊天区，右侧面板占满工作区 |
 | 还原右侧面板 | Tab 栏右侧的「还原」按钮（最大化状态下） | 恢复三栏布局 |
 
-![面板折叠与最大化按钮](./assets/interface-overview/05-panel-controls.png)
+![Frame 15](/images/Frame-15.png "Frame 15")
 
 ## 进阶用法
 
