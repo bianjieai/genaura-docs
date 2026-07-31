@@ -93,11 +93,7 @@ GenAura 为不同平台提供以下安装包类型：
 2. **完成登录**：点击「使用网页登录」后，系统默认浏览器会打开登录页面，按提示完成账号登录，登录成功后会自动跳回 GenAura 应用。
 3. **品牌工作区**：登录成功后进入主工作区。如果是新账号或首次进入，会自动弹出 [新手引导](./03-onboarding.md)，并引导你创建第一个品牌。
 
-<Frame>
-  ![Image](/images/image-5.png "Image")
-</Frame>
-
-![首次启动后的登录页](./assets/installation/04-first-launch-login.png)
+![Image](/images/image-3.png "Image")
 
 更多关于主界面布局的认知，请参阅 [界面总览](./04-interface-overview.md)。
 
