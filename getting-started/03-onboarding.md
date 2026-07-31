@@ -32,7 +32,7 @@ GenAura 在你首次进入品牌工作区时，会自动启动一段 **8 步新�
 - **中部**：步骤标题 \+ 描述说明
 - **底部**：左侧「上一步」按钮（第一步时禁用），右侧「跳过引导」\+「下一步」按钮（最后一步变为「开始体验」）
 
-![引导卡片结构示例](./assets/onboarding/01-popover-anatomy.png)
+![Image](/images/image-16.png "Image")
 
 ### 2. 跟随 8 步引导
 
@@ -58,8 +58,6 @@ flowchart LR
 - **说明**：GenAura 是你的品牌 GEO 助手，帮你诊断 GEO 表现、生成优化文章、管理品牌知识库。
 - **价值**：建立对 GenAura 产品定位的整体认知
 
-![步骤1 欢迎浮层](./assets/onboarding/02-step-welcome.png)
-
 #### 步骤 2：输入框
 
 - **位置**：高亮中间聊天区底部的输入框（气泡在输入框上方）
@@ -67,7 +65,7 @@ flowchart LR
 - **说明**：输入问题，或点击下方快捷指令，即可开始品牌 GEO 诊断、生成 GEO 文章。
 - **价值**：告诉你 GenAura 的主要交互入口是对话
 
-![步骤2 高亮输入框](./assets/onboarding/03-step-composer.png)
+![Image](/images/image-16.png "Image")
 
 #### 步骤 3：知识库
 
@@ -76,7 +74,7 @@ flowchart LR
 - **说明**：在知识库上传品牌文档与产品资料，Agent 生成的分析、报告和文章也会自动存储在这里。在文章标题上点击鼠标右键，即可一键发布到内容渠道。输入 @ 还可在对话中引用知识库内容。
 - **价值**：知识库是 GenAura 一切回答的事实基础
 
-![步骤3 高亮知识库 Tab](./assets/onboarding/04-step-knowledge.png)
+![Image](/images/image-18.png "Image")
 
 #### 步骤 4：AI 洞察
 
@@ -87,7 +85,7 @@ flowchart LR
 
 > 说明：这一步以「AI 洞察」Tab 作为高亮目标，同时介绍了「AI 洞察」「AI 信源」「AI 情感」三个相邻的 Tab，它们在引导中被合并为一步高亮。
 
-![步骤4 高亮 AI 洞察 Tab](./assets/onboarding/05-step-insight.png)
+![Image](/images/image-19.png "Image")
 
 #### 步骤 5：品牌配置
 
@@ -96,7 +94,7 @@ flowchart LR
 - **说明**：品牌初始化时 Agent 会自动写入品牌内容与提问矩阵。你可以在这里手动更新它们，这些调整都会影响后续的 AI 平台问答跟踪。
 - **价值**：品牌配置直接决定后续追踪与生成的准确度
 
-![步骤5 高亮品牌配置 Tab](./assets/onboarding/06-step-brand-config.png)
+![Image](/images/image-20.png "Image")
 
 #### 步骤 6：定时任务
 
@@ -105,7 +103,7 @@ flowchart LR
 - **说明**：定时任务中内置了 AI 平台问答跟踪任务。任务执行依赖于你的电脑保持开机，并且 GenAura 应用处于运行状态。
 - **价值**：定时任务是持续获取 AI 洞察数据的前提
 
-![步骤6 高亮定时任务 Tab](./assets/onboarding/07-step-cron.png)
+![Image](/images/image-21.png "Image")
 
 #### 步骤 7：机会
 
@@ -114,7 +112,7 @@ flowchart LR
 - **说明**：Agent 会自动识别品牌增长机会与潜在风险，点击即可创建会话跟进。
 - **价值**：将洞察转化为可执行的下一步行动
 
-![步骤7 高亮左侧机会入口](./assets/onboarding/08-step-opportunities.png)
+![Image](/images/image-22.png "Image")
 
 #### 步骤 8：开始体验
 
@@ -124,7 +122,7 @@ flowchart LR
 - **价值**：给出引导结束后的明确行动建议
 - 按钮文案变为「开始体验」，点击后引导关闭，进入正式使用
 
-![步骤8 开始体验浮层](./assets/onboarding/09-step-get-started.png)
+![Image](/images/image-23.png "Image")
 
 ### 3. 控制引导进度
 

@@ -36,7 +36,7 @@ GenAura 桌面应用采用 **三栏工作区** 布局，让你在与 Agent 对�
 
 窗口默认尺寸为 1440 × 900 像素，最小尺寸为 1024 × 600 像素。两栏之间各有一条可拖拽的分隔条，用于调整宽度。
 
-![三栏布局总览](./assets/interface-overview/01-three-column-layout.png)
+![Image](/images/image-15.png "Image")
 
 > 提示：macOS 下窗口标题栏采用沉浸式设计（红绿灯按钮内嵌在左上角），整个顶部区域可拖拽移动窗口。Windows 下使用系统默认标题栏。
 
@@ -74,7 +74,7 @@ GenAura 桌面应用采用 **三栏工作区** 布局，让你在与 Agent 对�
 
 左下角是账户菜单按钮，显示头像 \+ 用户名（或掩码手机号）\+ 套餐标签。点击后向上弹出菜单，包含：个人中心、通用设置、关于、检查更新、主题、退出登录。详见 [登录与账户](./02-login-account.md)。
 
-![左侧导航分区](./assets/interface-overview/02-left-nav-zones.png)
+![Image 13](/images/image-13.png "Image 13")
 
 ### 3. 中间聊天区
 
