@@ -98,7 +98,7 @@ GenAura 提供两处重命名入口：
 
 > 快捷建议与输入框中的 `/` 指令一一对应，详见 [命令与提及](./05-commands-mentions.md)。
 
-![新对话欢迎界面](./assets/chat-management/02-welcome.png)
+![Image](/images/image-40.png "Image")
 
 ---
 

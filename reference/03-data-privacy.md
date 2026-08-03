@@ -14,7 +14,7 @@ GenAura 是一款**优先本地化**的桌面应用：你的品牌数据、知�
 - 应用内置的**安全审计**机制
 - 如何**清除或迁移**本机数据
 
-![数据与隐私概览](./assets/data-privacy/01-privacy-overview.png)
+![BB8279B7 609C 4CB5 A33A 5CC19F5E4B44](/images/BB8279B7-609C-4CB5-A33A-5CC19F5E4B44.png "BB8279B7 609C 4CB5 A33A 5CC19F5E4B44")
 
 ---
 
