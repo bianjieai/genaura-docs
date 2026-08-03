@@ -32,7 +32,7 @@ title: "AI 洞察"
 
 ## 操作步骤
 
-![AI 洞察页面](./assets/insight/01-insight.png)
+![Group 74](/images/Group-74.png "Group 74")
 
 ### 1. 进入 AI 洞察 Tab
 

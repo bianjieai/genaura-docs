@@ -34,7 +34,7 @@ title: "偏好洞察"
 3. 页面顶部展示标题「AI 信源分析」与副标题「解构 AI 平台算法偏好，精准构建 AI 品牌口碑」。
 4. 进入页面时，应用会在后台自动刷新当前品牌下「审核中」投放记录的最新状态，用于更新「发布内容追踪」面板。
 
-![偏好洞察](./assets/preference-insight/01-preference.png)
+![Image](/images/image-32.png "Image")
 
 ### 2. 偏好数据总览
 

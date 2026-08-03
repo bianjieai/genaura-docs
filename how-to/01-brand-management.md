@@ -15,7 +15,7 @@ GenAura 把品牌的搭建分成两个阶段——创建时只需填写四项轻
 - 删除不再使用的品牌（含二次确认与当前品牌自动跳转）。
 - 理解为什么品牌列表里看不到系统保留品牌。
 
-![品牌选择器入口](./assets/brand-management/01-brand-selector.png)
+![Group 77](/images/Group-77.png "Group 77")
 
 ---
 
