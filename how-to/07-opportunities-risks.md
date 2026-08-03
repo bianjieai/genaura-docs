@@ -15,7 +15,7 @@ GenAura 的 AI 助手在分析品牌数据时，会自动识别出值得关注�
 - 完成或删除机会/风险。
 - 从机会/风险跳转到关联的对话继续跟进。
 
-![机会与风险列表](./assets/opportunities-risks/01-nav-list.png)
+![Group 76](/images/Group-76.png "Group 76")
 
 ---
 

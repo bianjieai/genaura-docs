@@ -14,7 +14,7 @@ GenAura 的 AI 助手在处理复杂任务时，会通过**子代理**拆分工�
 - 理解子代理消息块的状态与内容。
 - 在 AI 请求审批时做出批准或拒绝的决定。
 
-![子代理与审批](./assets/sub-agent-approval/01-activity-block.png)
+![Image](/images/image-31.png "Image")
 
 ---
 
