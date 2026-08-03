@@ -35,8 +35,6 @@ GenAura 提供从知识库 Markdown 文章到多个内容平台的一键发布�
 
 ![Group 81](/images/Group-81.png "Group 81")
 
-![发布对话框](./assets/article-publish/02-publish-dialog.png)
-
 ### 2. 认识发布对话框
 
 对话框打开后会并行完成三件事：
@@ -225,7 +223,7 @@ flowchart TD
   - **编辑**（铅笔图标）：展开内联表单，修改发布链接。链接变更时会重新解析渠道、抓取新标题，并将状态重置为「已发布」。
   - **删除**（垃圾桶图标）：弹出删除确认弹窗，确认后删除该记录。
 
-![发布记录](./assets/article-publish/04-publish-records.png)
+![E8642e172c4747adaece33c0b7e3d210](/images/e8642e172c4747adaece33c0b7e3d210.png "E8642e172c4747adaece33c0b7e3d210")
 
 ## 进阶用法
 
