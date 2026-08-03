@@ -15,8 +15,8 @@ GenAura 内置 5 个主流 AI 平台的搜索工作流：**DeepSeek、通义千�
 
 ## 前置条件
 
-- 已创建至少一个品牌并配置了关键词（参见 [品牌模型](./01-brand-model.md)）。
-- 已在 GenAura 内嵌浏览器中登录了对应 AI 平台（参见 [内嵌浏览器](../how-to/10-browser.md)）。
+- 已创建至少一个品牌并配置了关键词（参见 [品牌模型](/concepts/01-brand-model)）。
+- 已在 GenAura 内嵌浏览器中登录了对应 AI 平台（参见 [内嵌浏览器](/how-to/10-browser)）。
 - 在品牌配置的「AI 平台跟踪」分区中打开了对应平台的开关。
 
 ## 5 个 AI 平台工作流
@@ -116,18 +116,18 @@ AI 完成回答后，GenAura 会：
 - **偏好洞察 Tab**：分析 AI 在推荐时引用了哪些信源、哪些信源被反复引用。
 - **机会与风险**：基于 AI 答案自动识别潜在的市场机会或品牌风险。
 
-详见 [洞察数据来源](./03-insight-data.md)。
+详见 [洞察数据来源](/concepts/03-insight-data)。
 
 ## 启动工作流的方式
 
 GenAura 提供两种启动工作流的入口：
 
-- **手动启动**：在右侧面板的「浏览器」Tab 中选择目标平台工作流并启动（参见 [AI 平台工作流](../how-to/11-ai-platform-workflows.md)）。
-- **定时执行**：在右侧面板的「定时任务」Tab 中配置执行频率，GenAura 会按计划自动启动工作流（参见 [定时任务](../how-to/12-cron-tasks.md)）。
+- **手动启动**：在右侧面板的「浏览器」Tab 中选择目标平台工作流并启动（参见 [AI 平台工作流](/how-to/11-ai-platform-workflows)）。
+- **定时执行**：在右侧面板的「定时任务」Tab 中配置执行频率，GenAura 会按计划自动启动工作流（参见 [定时任务](/how-to/12-cron-tasks)）。
 
 ## 常见问题
 
-**Q1：为什么 GenAura 要在内嵌浏览器里登录 AI 平台？为什么不让我用系统浏览器？** 工作流需要在 GenAura 内嵌浏览器中操作 AI 平台的网页。如果用系统浏览器，GenAura 无法读取页面内容、输入问题、抓取答案。因此首次使用前，请在内嵌浏览器中完成每个 AI 平台的登录（参见 [内嵌浏览器](../how-to/10-browser.md)）。
+**Q1：为什么 GenAura 要在内嵌浏览器里登录 AI 平台？为什么不让我用系统浏览器？** 工作流需要在 GenAura 内嵌浏览器中操作 AI 平台的网页。如果用系统浏览器，GenAura 无法读取页面内容、输入问题、抓取答案。因此首次使用前，请在内嵌浏览器中完成每个 AI 平台的登录（参见 [内嵌浏览器](/how-to/10-browser)）。
 
 **Q2：工作流提示我「登录态过期」怎么办？** 说明该平台的登录已经过期。GenAura 会自动打开登录窗口并暂停工作流，请在弹出的内嵌浏览器中完成登录或扫码，GenAura 会自动恢复执行。
 
@@ -149,9 +149,9 @@ GenAura 提供两种启动工作流的入口：
 
 ## 相关文档
 
-- 前置阅读：[品牌模型](./01-brand-model.md)、[界面总览](../getting-started/04-interface-overview.md)
-- 操作指南：[内嵌浏览器](../how-to/10-browser.md)、[AI 平台工作流](../how-to/11-ai-platform-workflows.md)、[定时任务](../how-to/12-cron-tasks.md)
-- 关联概念：[洞察数据来源](./03-insight-data.md)、[机会与风险机制](./05-opportunity-risk.md)
+- 前置阅读：[品牌模型](/concepts/01-brand-model)、[界面总览](/getting-started/04-interface-overview)
+- 操作指南：[内嵌浏览器](/how-to/10-browser)、[AI 平台工作流](/how-to/11-ai-platform-workflows)、[定时任务](/how-to/12-cron-tasks)
+- 关联概念：[洞察数据来源](/concepts/03-insight-data)、[机会与风险机制](/concepts/05-opportunity-risk)
 
 ---
 

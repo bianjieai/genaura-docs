@@ -14,8 +14,8 @@ title: "AI Agent 协作模型"
 
 ## 前置条件
 
-- 已登录 GenAura，并进入某个品牌的工作区（参见 [界面总览](../getting-started/04-interface-overview.md)）。
-- 建议先阅读 [对话与消息](../how-to/04-messaging.md) 与 [子代理与人工审批](../how-to/06-sub-agent-approval.md) 操作指南。
+- 已登录 GenAura，并进入某个品牌的工作区（参见 [界面总览](/getting-started/04-interface-overview)）。
+- 建议先阅读 [对话与消息](/how-to/04-messaging) 与 [子代理与人工审批](/how-to/06-sub-agent-approval) 操作指南。
 
 ## 协作模型总览
 
@@ -149,9 +149,9 @@ GenAura 默认对以下类型的操作触发人工审批：
 
 ## 相关文档
 
-- 前置阅读：[界面总览](../getting-started/04-interface-overview.md)
-- 操作指南：[对话与消息](../how-to/04-messaging.md)、[子代理与人工审批](../how-to/06-sub-agent-approval.md)、[命令与提及](../how-to/05-commands-mentions.md)
-- 关联概念：[工作流原理](./02-workflow.md)、[机会与风险机制](./05-opportunity-risk.md)
+- 前置阅读：[界面总览](/getting-started/04-interface-overview)
+- 操作指南：[对话与消息](/how-to/04-messaging)、[子代理与人工审批](/how-to/06-sub-agent-approval)、[命令与提及](/how-to/05-commands-mentions)
+- 关联概念：[工作流原理](/concepts/02-workflow)、[机会与风险机制](/concepts/05-opportunity-risk)
 
 ---
 

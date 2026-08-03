@@ -15,8 +15,8 @@ GenAura 围绕「品牌」组织全部数据与 AI 洞察。一个品牌不只�
 
 ## 前置条件
 
-- 已登录 GenAura，并进入主工作区（参见 [界面总览](../getting-started/04-interface-overview.md)）。
-- 建议先阅读 [品牌管理](../how-to/01-brand-management.md) 与 [品牌配置](../how-to/02-brand-config.md) 操作指南，本文重在解释概念模型，不涉及具体点击步骤。
+- 已登录 GenAura，并进入主工作区（参见 [界面总览](/getting-started/04-interface-overview)）。
+- 建议先阅读 [品牌管理](/how-to/01-brand-management) 与 [品牌配置](/how-to/02-brand-config) 操作指南，本文重在解释概念模型，不涉及具体点击步骤。
 
 ## 品牌画像由哪些信息构成
 
@@ -152,7 +152,7 @@ GenAura 把品牌的生命周期拆成两个阶段，让你能「先快速建档
 
 **Q1：为什么创建品牌时填的官网链接在品牌配置里看不到？** 创建品牌时填的官网链接会作为品牌记录的初始信息保存，进入品牌配置 Tab 的「基本信息」分区可以看到并编辑。Logo 同理——创建时上传的 Logo 会出现在基本信息中。
 
-**Q2：创建品牌时上传的素材文件去哪了？** 素材文件会自动导入到该品牌的知识库的「原始物料与素材」目录下，可以在右侧面板的「知识库」Tab 中查看（参见 [知识库管理](../how-to/08-knowledge-base.md)）。素材文件**不会**出现在品牌配置 Tab 中。
+**Q2：创建品牌时上传的素材文件去哪了？** 素材文件会自动导入到该品牌的知识库的「原始物料与素材」目录下，可以在右侧面板的「知识库」Tab 中查看（参见 [知识库管理](/how-to/08-knowledge-base)）。素材文件**不会**出现在品牌配置 Tab 中。
 
 **Q3：预设问题最多能加多少个？是每个品牌/产品各 30 个吗？** 不是。30 个是**品牌级问题 \+ 所有产品级问题的合计上限**。新增问题时如果超过这个上限，系统会拦截并提示。这个上限可以由部署方调整，但默认值是 30。
 
@@ -167,10 +167,10 @@ GenAura 把品牌的生命周期拆成两个阶段，让你能「先快速建档
 
 ## 相关文档
 
-- 前置阅读：[界面总览](../getting-started/04-interface-overview.md)
-- 操作指南：[品牌管理](../how-to/01-brand-management.md)、[品牌配置](../how-to/02-brand-config.md)
-- 关联概念：[工作流原理](./02-workflow.md)、[洞察数据来源](./03-insight-data.md)
-- 知识库：[知识库管理](../how-to/08-knowledge-base.md)
+- 前置阅读：[界面总览](/getting-started/04-interface-overview)
+- 操作指南：[品牌管理](/how-to/01-brand-management)、[品牌配置](/how-to/02-brand-config)
+- 关联概念：[工作流原理](/concepts/02-workflow)、[洞察数据来源](/concepts/03-insight-data)
+- 知识库：[知识库管理](/how-to/08-knowledge-base)
 
 ---
 

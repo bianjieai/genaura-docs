@@ -17,8 +17,8 @@ GenAura 的所有洞察、情感分析、偏好洞察数据都不是凭空产生
 
 ## 前置条件
 
-- 已完成品牌配置，并填好了品牌关键词（参见 [品牌模型](./01-brand-model.md)）。
-- 已在 5 个 AI 平台中至少登录过一个（参见 [工作流原理](./02-workflow.md)）。
+- 已完成品牌配置，并填好了品牌关键词（参见 [品牌模型](/concepts/01-brand-model)）。
+- 已在 5 个 AI 平台中至少登录过一个（参见 [工作流原理](/concepts/02-workflow)）。
 - 已经至少跑过一次 AI 平台搜索工作流。
 
 ## 数据从哪里来
@@ -133,7 +133,7 @@ AI 洞察 / 情感分析 / 偏好洞察 Tab 顶部的「时间范围」「平台
 
 **Q1：为什么 AI 对话总量增加了，但提及数没变？** 说明这段时间内 AI 平台虽然在回答你的问题，但没有提到你的品牌或产品。建议：
 
-- 检查品牌关键词是否填得准确、是否覆盖了用户常用的称呼（参见 [品牌模型](./01-brand-model.md)）。
+- 检查品牌关键词是否填得准确、是否覆盖了用户常用的称呼（参见 [品牌模型](/concepts/01-brand-model)）。
 - 检查预设问题是否能引导 AI 提到你的品牌（例如「推荐一款……的产品」比「这个品牌怎么样」更容易触发提及）。
 
 **Q2：提及率为什么有时候超过 100%？** 自身品牌的提及率最高 100%（提及数不会超过对话总量）。但**竞品对比**中的竞品提及率有可能超过 100%——因为分母用的是「你品牌的对话总量」，而某次对话里 AI 可能同时提到了多个竞品，所以竞品提及数可能大于你的对话数。这是正常的统计口径。
@@ -152,9 +152,9 @@ AI 洞察 / 情感分析 / 偏好洞察 Tab 顶部的「时间范围」「平台
 
 ## 相关文档
 
-- 前置阅读：[品牌模型](./01-brand-model.md)、[工作流原理](./02-workflow.md)
-- 操作指南：[AI 洞察](../how-to/14-insight.md)、[情感分析](../how-to/15-emotion-analysis.md)、[偏好洞察](../how-to/16-preference-insight.md)、[AI 平台工作流](../how-to/11-ai-platform-workflows.md)、[定时任务](../how-to/12-cron-tasks.md)
-- 关联概念：[AI Agent 协作模型](./04-ai-agent.md)、[机会与风险机制](./05-opportunity-risk.md)
+- 前置阅读：[品牌模型](/concepts/01-brand-model)、[工作流原理](/concepts/02-workflow)
+- 操作指南：[AI 洞察](/how-to/14-insight)、[情感分析](/how-to/15-emotion-analysis)、[偏好洞察](/how-to/16-preference-insight)、[AI 平台工作流](/how-to/11-ai-platform-workflows)、[定时任务](/how-to/12-cron-tasks)
+- 关联概念：[AI Agent 协作模型](/concepts/04-ai-agent)、[机会与风险机制](/concepts/05-opportunity-risk)
 
 ---
 

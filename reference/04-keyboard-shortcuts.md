@@ -209,7 +209,7 @@ GenAura 在 Windows / Linux 平台不显示菜单栏。因此 macOS 应用菜单
 
 ### Q6：编辑器中按 ⌘S / Ctrl\+S 为什么没有保存？
 
-统一文件编辑器未注册自定义保存快捷键。如需保存编辑结果，请使用编辑器界面上的保存按钮，详见 [文件编辑器](../how-to/09-file-editor.md)。
+统一文件编辑器未注册自定义保存快捷键。如需保存编辑结果，请使用编辑器界面上的保存按钮，详见 [文件编辑器](/how-to/09-file-editor)。
 
 ### Q7：如何调整左右两栏面板的宽度？
 
@@ -222,13 +222,13 @@ GenAura 在 Windows / Linux 平台不显示菜单栏。因此 macOS 应用菜单
 
 ## 相关文档
 
-- [界面总览](../getting-started/04-interface-overview.md) — 三栏布局、右侧 Tab、面板折叠与最大化
-- [消息发送与渲染](../how-to/04-messaging.md) — 对话输入框的发送 / 换行 / `@` 引用 / `/` 指令
-- [命令与 @提及](../how-to/05-commands-mentions.md) — `/` 指令与 `@` 知识库引用的详细用法
-- [文件编辑器](../how-to/09-file-editor.md) — 统一文件编辑器的能力边界与保存方式
-- [内嵌浏览器](../how-to/10-browser.md) — 浏览器 Tab 的接管机制与状态说明
-- [新手引导](../getting-started/03-onboarding.md) — 8 步引导流程
-- [设置](./01-settings.md) — 应用设置、主题、防休眠等
+- [界面总览](/getting-started/04-interface-overview) — 三栏布局、右侧 Tab、面板折叠与最大化
+- [消息发送与渲染](/how-to/04-messaging) — 对话输入框的发送 / 换行 / `@` 引用 / `/` 指令
+- [命令与 @提及](/how-to/05-commands-mentions) — `/` 指令与 `@` 知识库引用的详细用法
+- [文件编辑器](/how-to/09-file-editor) — 统一文件编辑器的能力边界与保存方式
+- [内嵌浏览器](/how-to/10-browser) — 浏览器 Tab 的接管机制与状态说明
+- [新手引导](/getting-started/03-onboarding) — 8 步引导流程
+- [设置](/reference/01-settings) — 应用设置、主题、防休眠等
 
 ---
 

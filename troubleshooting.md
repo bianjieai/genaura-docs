@@ -23,14 +23,14 @@ flowchart TD
     L -->|否| N[查阅相关文档或联系支持]
 ```
 
-> 阅读建议：先按"症状"对号入座，再按"解决步骤"逐项操作；若仍无法解决，请参考末尾"相关文档"深入对应模块文档，或前往[常见问题](./faq.md)查看是否有同款疑问。
+> 阅读建议：先按"症状"对号入座，再按"解决步骤"逐项操作；若仍无法解决，请参考末尾"相关文档"深入对应模块文档，或前往[常见问题](/faq)查看是否有同款疑问。
 
 ## 前置条件
 
-- 已按 [安装指南](./getting-started/01-installation.md) 完成安装并首次启动。
-- 已按 [登录与账号](./getting-started/02-login-account.md) 登录账号并进入工作区。
+- 已按 [安装指南](/getting-started/01-installation) 完成安装并首次启动。
+- 已按 [登录与账号](/getting-started/02-login-account) 登录账号并进入工作区。
 - 出现问题前应用处于正常工作状态（未提示磁盘空间不足、未崩溃）。
-- 出现工作流相关问题时，请先确认内嵌浏览器中目标 AI 平台已登录（见 [内嵌浏览器](./how-to/10-browser.md) 的登录态管理）。
+- 出现工作流相关问题时，请先确认内嵌浏览器中目标 AI 平台已登录（见 [内嵌浏览器](/how-to/10-browser) 的登录态管理）。
 
 ---
 
@@ -100,7 +100,7 @@ flowchart TD
 2. 若持续出现，检查系统时间是否准确（影响凭证有效期判断）。
 3. 若网络不稳定，先确认网络恢复后再重试。
 
-> 进一步阅读：[登录与账号 - 常见问题](./getting-started/02-login-account.md#常见问题)。
+> 进一步阅读：[登录与账号 - 常见问题](/getting-started/02-login-account#常见问题)。
 
 ---
 
@@ -164,7 +164,7 @@ flowchart TD
 2. 登录态存储在内嵌浏览器的独立会话中，后续运行无需重复登录。
 3. 若工作流运行时弹出接管对话框，点击「接管」手动登录后点击「释放」即可恢复执行。
 
-> 进一步阅读：[AI 平台工作流](./how-to/11-ai-platform-workflows.md)、[工作流原理 - 接管机制](./concepts/02-workflow.md)。
+> 进一步阅读：[AI 平台工作流](/how-to/11-ai-platform-workflows)、[工作流原理 - 接管机制](/concepts/02-workflow)。
 
 ---
 
@@ -212,9 +212,9 @@ flowchart TD
 
 1. 重新接管，确保登录流程完整走完（页面跳转完成、用户头像或昵称出现）。
 2. 若检测信号持续较弱，在内嵌浏览器中手动刷新页面后再释放。
-3. 仍不行时，参考 [内嵌浏览器 - 登录态管理](./how-to/10-browser.md) 重新建立登录态。
+3. 仍不行时，参考 [内嵌浏览器 - 登录态管理](/how-to/10-browser) 重新建立登录态。
 
-> 进一步阅读：[内嵌浏览器 - 浏览器接管对话框](./how-to/10-browser.md)、[工作流原理 - 接管机制](./concepts/02-workflow.md#接管机制)。
+> 进一步阅读：[内嵌浏览器 - 浏览器接管对话框](/how-to/10-browser)、[工作流原理 - 接管机制](/concepts/02-workflow#接管机制)。
 
 ---
 
@@ -236,7 +236,7 @@ flowchart TD
 
 **可能原因**：选择了不支持的扩展名。当前**仅支持导入 4 种格式**：md / txt / docx / pdf。
 
-> 注意：csv / xlsx / xls / 图片等格式只能在 [文件编辑器](./how-to/09-file-editor.md) 中**预览**，不能导入知识库。
+> 注意：csv / xlsx / xls / 图片等格式只能在 [文件编辑器](/how-to/09-file-editor) 中**预览**，不能导入知识库。
 
 **解决步骤**：
 
@@ -307,7 +307,7 @@ flowchart TD
 2. 若站点有反爬限制（403）或登录墙，改为手动复制正文到知识库新建 md 文件。
 3. 检查网络连接是否稳定。
 
-> 进一步阅读：[知识库 - 导入本地文件 / 导入 URL / 常见错误](./how-to/08-knowledge-base.md)。
+> 进一步阅读：[知识库 - 导入本地文件 / 导入 URL / 常见错误](/how-to/08-knowledge-base)。
 
 ---
 
@@ -369,7 +369,7 @@ flowchart TD
 
 **说明**：失败的发布**不会写入发布记录**，只在发布完成时的提示框中显示「{平台}: {错误信息}」。如需保留失败记录，请手动截图或记录。
 
-> 进一步阅读：[文章一键发布 - 发布状态检查](./how-to/13-article-publish.md)。
+> 进一步阅读：[文章一键发布 - 发布状态检查](/how-to/13-article-publish)。
 
 ---
 
@@ -414,7 +414,7 @@ GenAura 内置磁盘空间守护机制，监测应用数据所在磁盘的可用
 - **冷却**：告警后 24 小时内不重复弹窗，除非状态恶化升级（如警告 → 严重）。
 - **提示方式**：应用在前台时通过应用内提示展示；在后台时通过系统通知（警告级别静音、严重级别响铃）。
 
-> 进一步阅读：[更新与维护参考 - 磁盘空间告警](./reference/02-update-maintenance.md#磁盘空间告警)。
+> 进一步阅读：[更新与维护参考 - 磁盘空间告警](/reference/02-update-maintenance#磁盘空间告警)。
 
 ---
 
@@ -450,7 +450,7 @@ GenAura 内置磁盘空间守护机制，监测应用数据所在磁盘的可用
 
 **解决步骤**：在 SmartScreen 弹窗中点击「更多信息」→「仍要运行」即可继续安装。
 
-> 进一步阅读：[安装指南 FAQ](./getting-started/01-installation.md#常见问题)。
+> 进一步阅读：[安装指南 FAQ](/getting-started/01-installation#常见问题)。
 
 ---
 
@@ -523,31 +523,31 @@ GenAura 内置磁盘空间守护机制，监测应用数据所在磁盘的可用
 2. 若频繁崩溃，检查系统内存是否充足。
 3. 浏览器导航失败时检查目标 URL 是否可访问。
 
-> 进一步阅读：[消息发送 FAQ](./how-to/04-messaging.md#常见问题)。
+> 进一步阅读：[消息发送 FAQ](/how-to/04-messaging#常见问题)。
 
 ---
 
 ## 相关文档
 
 - 入门：
-  - [安装指南](./getting-started/01-installation.md)
-  - [登录与账号](./getting-started/02-login-account.md)（含登录常见问题）
-  - [界面总览](./getting-started/04-interface-overview.md)
+  - [安装指南](/getting-started/01-installation)
+  - [登录与账号](/getting-started/02-login-account)（含登录常见问题）
+  - [界面总览](/getting-started/04-interface-overview)
 - 概念：
-  - [工作流原理](./concepts/02-workflow.md)（异常检测、接管机制、工作流中止与恢复）
-  - [AI Agent 协作模型](./concepts/04-ai-agent.md)（子代理与人工审批）
+  - [工作流原理](/concepts/02-workflow)（异常检测、接管机制、工作流中止与恢复）
+  - [AI Agent 协作模型](/concepts/04-ai-agent)（子代理与人工审批）
 - 操作指南：
-  - [知识库](./how-to/08-knowledge-base.md)（导入限制、URL 导入常见错误）
-  - [文件编辑器](./how-to/09-file-editor.md)（可编辑/预览类型）
-  - [内嵌浏览器](./how-to/10-browser.md)（接管对话框、登录态管理）
-  - [AI 平台工作流](./how-to/11-ai-platform-workflows.md)（运行、接管、结果）
-  - [定时任务](./how-to/12-cron-tasks.md)（周期性运行工作流）
-  - [文章一键发布](./how-to/13-article-publish.md)（发布状态检查机制、常见问题）
+  - [知识库](/how-to/08-knowledge-base)（导入限制、URL 导入常见错误）
+  - [文件编辑器](/how-to/09-file-editor)（可编辑/预览类型）
+  - [内嵌浏览器](/how-to/10-browser)（接管对话框、登录态管理）
+  - [AI 平台工作流](/how-to/11-ai-platform-workflows)（运行、接管、结果）
+  - [定时任务](/how-to/12-cron-tasks)（周期性运行工作流）
+  - [文章一键发布](/how-to/13-article-publish)（发布状态检查机制、常见问题）
 - 参考：
-  - [设置](./reference/01-settings.md)
-  - [更新与维护](./reference/02-update-maintenance.md)（自动更新、磁盘空间告警）
-  - [数据隐私](./reference/03-data-privacy.md)
-- 常见问题：[faq.md](./faq.md)
+  - [设置](/reference/01-settings)
+  - [更新与维护](/reference/02-update-maintenance)（自动更新、磁盘空间告警）
+  - [数据隐私](/reference/03-data-privacy)
+- 常见问题：[faq.md](/faq)
 
 ---
 

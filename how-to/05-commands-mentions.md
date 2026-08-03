@@ -23,9 +23,9 @@ title: "命令与提及"
 
 ## 前置条件
 
-- 已按 [对话管理](./03-chat-management.md) 创建或选中一个对话。
+- 已按 [对话管理](/how-to/03-chat-management) 创建或选中一个对话。
 - 品牌已完成初始化。
-- 使用 `@` 提及前，建议先了解 [知识库管理](./08-knowledge-base.md) 中的目录结构。
+- 使用 `@` 提及前，建议先了解 [知识库管理](/how-to/08-knowledge-base) 中的目录结构。
 
 ---
 
@@ -88,7 +88,7 @@ title: "命令与提及"
 
 ### 可引用的文件类型
 
-`@` 提及支持引用**文本类文件**，包括 md、txt、csv、json、html 等可直接读取文本内容的格式。其他格式（如 docx、pdf、图片）不可通过 @ 引用，但可以在 [知识库管理](./08-knowledge-base.md) 中查看。
+`@` 提及支持引用**文本类文件**，包括 md、txt、csv、json、html 等可直接读取文本内容的格式。其他格式（如 docx、pdf、图片）不可通过 @ 引用，但可以在 [知识库管理](/how-to/08-knowledge-base) 中查看。
 
 ### 指令与自由提问的结合
 
@@ -134,11 +134,11 @@ title: "命令与提及"
 ## 相关文档
 
 - 前置阅读：
-  - [消息收发](./04-messaging.md)
-  - [对话管理](./03-chat-management.md)
+  - [消息收发](/how-to/04-messaging)
+  - [对话管理](/how-to/03-chat-management)
 - 关联操作：
-  - [知识库管理](./08-knowledge-base.md)（@ 引用的文件来源与目录结构）
-  - [品牌配置](./02-brand-config.md)（品牌关键词与预设问题）
+  - [知识库管理](/how-to/08-knowledge-base)（@ 引用的文件来源与目录结构）
+  - [品牌配置](/how-to/02-brand-config)（品牌关键词与预设问题）
 
 ---
 

@@ -28,7 +28,7 @@ title: "品牌配置"
 
 ## 前置条件
 
-- 已按 [品牌管理](./01-brand-management.md) 创建至少一个品牌，并切换到该品牌。
+- 已按 [品牌管理](/how-to/01-brand-management) 创建至少一个品牌，并切换到该品牌。
 - 品牌处于正常状态（已归档的品牌不可编辑配置）。
 
 ---
@@ -48,7 +48,7 @@ title: "品牌配置"
    | 别名 | 否 | 单条最长 64 字符 | 品牌的其他称呼，多条之间用逗号或换行分隔。别名不能与品牌名称相同。 |
    | 品牌关键词 | **是** | 单条最长 64 字符 | AI 平台搜索时的核心匹配词，多条之间用逗号或换行分隔。关键词越精准，监测结果越相关。 |
    | 品牌描述 | 否 | 最长 2000 字符 | 品牌定位、核心价值等介绍。 |
-   | Logo | 否 | — | 展示当前 Logo，可在创建品牌时上传（参见 [品牌管理](./01-brand-management.md)）。 |
+   | Logo | 否 | — | 展示当前 Logo，可在创建品牌时上传（参见 [品牌管理](/how-to/01-brand-management)）。 |
 3. 点击「保存」提交。保存期间按钮显示「保存中...」并禁用。
 4. 校验失败时会以提示消息告知原因（如品牌名称为空、关键词为空、官网链接格式不正确、别名与品牌名重复等），请按提示修正后重新保存。
 
@@ -158,9 +158,9 @@ AI 平台跟踪分区标题为「AI 平台跟踪」，列出所有可监测的 A
 
 品牌配置完成后，可以：
 
-- 在「定时任务」中配置 AI 平台搜索的执行频率（参见 [定时任务](./12-cron-tasks.md)）。
-- 在「AI 洞察」中查看监测结果（参见 [AI 洞察](./14-insight.md)）。
-- 通过对话使用 `/` 命令快速发起品牌 GEO 诊断（参见 [命令与提及](./05-commands-mentions.md)）。
+- 在「定时任务」中配置 AI 平台搜索的执行频率（参见 [定时任务](/how-to/12-cron-tasks)）。
+- 在「AI 洞察」中查看监测结果（参见 [AI 洞察](/how-to/14-insight)）。
+- 通过对话使用 `/` 命令快速发起品牌 GEO 诊断（参见 [命令与提及](/how-to/05-commands-mentions)）。
 
 ---
 
@@ -195,17 +195,17 @@ AI 平台跟踪分区标题为「AI 平台跟踪」，列出所有可监测的 A
 ## 相关文档
 
 - 前置阅读：
-  - [品牌管理](./01-brand-management.md)（创建品牌与切换）
-  - [界面总览](../getting-started/04-interface-overview.md)
+  - [品牌管理](/how-to/01-brand-management)（创建品牌与切换）
+  - [界面总览](/getting-started/04-interface-overview)
 - 概念理解：
-  - [品牌模型](../concepts/01-brand-model.md)（品牌、产品、竞品、预设问题的关系）
+  - [品牌模型](/concepts/01-brand-model)（品牌、产品、竞品、预设问题的关系）
 - 关联操作：
-  - [定时任务](./12-cron-tasks.md)（配置 AI 平台搜索频率）
-  - [AI 洞察](./14-insight.md)（查看监测结果）
-  - [命令与提及](./05-commands-mentions.md)（快捷发起诊断）
+  - [定时任务](/how-to/12-cron-tasks)（配置 AI 平台搜索频率）
+  - [AI 洞察](/how-to/14-insight)（查看监测结果）
+  - [命令与提及](/how-to/05-commands-mentions)（快捷发起诊断）
 - 端到端教程：
-  - [配置首个品牌](../tutorials/01-first-brand.md)
-  - [执行品牌监测](../tutorials/02-brand-monitoring.md)
+  - [配置首个品牌](/tutorials/01-first-brand)
+  - [执行品牌监测](/tutorials/02-brand-monitoring)
 
 ---
 

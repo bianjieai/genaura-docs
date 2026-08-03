@@ -15,9 +15,9 @@ GenAura 在分析 AI 平台搜索结果时，会**自动识别**出你可能值�
 
 ## 前置条件
 
-- 已创建品牌并跑过至少一次 AI 平台搜索工作流（参见 [工作流原理](./02-workflow.md)）。
-- 已有 AI 洞察数据沉淀（参见 [洞察数据来源](./03-insight-data.md)）。
-- 建议先阅读 [机会与风险](../how-to/07-opportunities-risks.md) 操作指南。
+- 已创建品牌并跑过至少一次 AI 平台搜索工作流（参见 [工作流原理](/concepts/02-workflow)）。
+- 已有 AI 洞察数据沉淀（参见 [洞察数据来源](/concepts/03-insight-data)）。
+- 建议先阅读 [机会与风险](/how-to/07-opportunities-risks) 操作指南。
 
 ## 机会与风险分别是什么
 
@@ -159,9 +159,9 @@ flowchart LR
 
 ## 相关文档
 
-- 前置阅读：[工作流原理](./02-workflow.md)、[洞察数据来源](./03-insight-data.md)
-- 操作指南：[机会与风险](../how-to/07-opportunities-risks.md)、[对话与消息](../how-to/04-messaging.md)
-- 关联概念：[AI Agent 协作模型](./04-ai-agent.md)、[品牌模型](./01-brand-model.md)
+- 前置阅读：[工作流原理](/concepts/02-workflow)、[洞察数据来源](/concepts/03-insight-data)
+- 操作指南：[机会与风险](/how-to/07-opportunities-risks)、[对话与消息](/how-to/04-messaging)
+- 关联概念：[AI Agent 协作模型](/concepts/04-ai-agent)、[品牌模型](/concepts/01-brand-model)
 
 ---
 

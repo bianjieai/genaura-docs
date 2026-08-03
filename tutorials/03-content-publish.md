@@ -33,10 +33,10 @@ flowchart LR
 
 ## 前置条件
 
-- 已安装并登录 GenAura（参考 [安装指南](../getting-started/01-installation.md)、[登录与账号](../getting-started/02-login-account.md)）。
-- 已创建至少一个品牌，并跑过至少一次 AI 平台工作流监测，**右侧面板 → AI 洞察** 中能看到品牌指数、提及记录等数据。如果洞察页显示「暂无品牌数据 / 请先在品牌管理中创建或选择一个品牌」，请先回到 [教程 02：执行一次品牌监测](./02-brand-monitoring.md)。
+- 已安装并登录 GenAura（参考 [安装指南](/getting-started/01-installation)、[登录与账号](/getting-started/02-login-account)）。
+- 已创建至少一个品牌，并跑过至少一次 AI 平台工作流监测，**右侧面板 → AI 洞察** 中能看到品牌指数、提及记录等数据。如果洞察页显示「暂无品牌数据 / 请先在品牌管理中创建或选择一个品牌」，请先回到 [教程 02：执行一次品牌监测](/tutorials/02-brand-monitoring)。
 - 已在 GenAura 内嵌浏览器中**登录过目标发布平台**（百家号 / 搜狐号 / CSDN / 掘金）。首次发布时也可在发布对话框中点击「前往登录」补登（详见步骤 4）。
-- 文章以 Markdown 形式存放在知识库的 **GEO 内容** 系统目录下；如果对应目录为空，需要先通过本教程步骤 2 由 AI 生成，或在 [知识库](../how-to/08-knowledge-base.md) 中手动导入。
+- 文章以 Markdown 形式存放在知识库的 **GEO 内容** 系统目录下；如果对应目录为空，需要先通过本教程步骤 2 由 AI 生成，或在 [知识库](/how-to/08-knowledge-base) 中手动导入。
 
 ---
 
@@ -173,14 +173,14 @@ flowchart LR
 
 ## 相关文档
 
-- 前置教程：[02 执行一次品牌监测](./02-brand-monitoring.md) — 了解如何产生 AI 洞察数据。
+- 前置教程：[02 执行一次品牌监测](/tutorials/02-brand-monitoring) — 了解如何产生 AI 洞察数据。
 - 操作指南：
-  - [05 命令与 @提及](../how-to/05-commands-mentions.md) — `/` 命令与 @ 知识库提及的完整说明。
-  - [08 知识库管理](../how-to/08-knowledge-base.md) — GEO 内容系统目录、文件导入与搜索。
-  - [09 文件编辑器](../how-to/09-file-editor.md) — 编辑器能力、可编辑/预览类型、导出格式。
-  - [13 文章发布](../how-to/13-article-publish.md) — 发布对话框与发布记录的操作细节。
-- 概念：[03 洞察数据](../concepts/03-insight-data.md) — 洞察指标的计算口径与数据来源。
-- 故障排查：[troubleshooting.md](../troubleshooting.md) — 「发布失败」相关章节。
+  - [05 命令与 @提及](/how-to/05-commands-mentions) — `/` 命令与 @ 知识库提及的完整说明。
+  - [08 知识库管理](/how-to/08-knowledge-base) — GEO 内容系统目录、文件导入与搜索。
+  - [09 文件编辑器](/how-to/09-file-editor) — 编辑器能力、可编辑/预览类型、导出格式。
+  - [13 文章发布](/how-to/13-article-publish) — 发布对话框与发布记录的操作细节。
+- 概念：[03 洞察数据](/concepts/03-insight-data) — 洞察指标的计算口径与数据来源。
+- 故障排查：[troubleshooting.md](/troubleshooting) — 「发布失败」相关章节。
 
 ---
 
