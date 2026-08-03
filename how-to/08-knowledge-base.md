@@ -105,7 +105,7 @@ title: "知识库"
    - **多文件成功**：返回列表视图并刷新目录树。
    - **失败**：在汇总区列出失败文件及原因，可点击「重试」重新选择。
 
-![导入文件对话框](./assets/knowledge-base/03-import-dialog.png)
+![Image](/images/image-35.png "Image")
 
 #### 限制与异常
 
@@ -125,7 +125,7 @@ title: "知识库"
 3. 等待抓取：按钮显示加载图标，系统会自动提取网页正文并转换为 Markdown。
 4. 导入成功后，对话框显示绿色成功提示，并自动跳转到该文件的编辑器视图。
 
-![导入网页链接](./assets/knowledge-base/04-import-url.png)
+![Image](/images/image-36.png "Image")
 
 #### 默认目录与命名
 
@@ -166,7 +166,7 @@ title: "知识库"
    - **全部折叠 / 全部展开**：切换所有文件节点的折叠状态。
 7. 点击左上角「返回」按钮回到列表视图。
 
-![搜索检索](./assets/knowledge-base/05-search.png)
+![Image](/images/image-37.png "Image")
 
 #### 结果概览
 
@@ -227,7 +227,9 @@ title: "知识库"
 3. 该节点会以标签形式插入到对话输入框。
 4. 支持多选：按住 Ctrl/Cmd 多选节点后，再右键「添加至对话」会一次性插入多个标签。
 
-![右键菜单](./assets/knowledge-base/06-context-menu.png)
+<Frame>
+  ![Image](/images/image-38.png "Image")
+</Frame>
 
 #### 支持范围
 
