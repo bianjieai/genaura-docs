@@ -17,7 +17,7 @@ title: "命令与提及"
 - 使用 `@` 提及将知识库文件或目录作为附件发送给 AI。
 - 通过键盘高效操作命令与提及面板。
 
-![命令与提及入口](./assets/commands-mentions/01-composer-toolbar.png)
+![2D58CAA7 C226 4796 9B89 B0223E8A523D](/images/2D58CAA7-C226-4796-9B89-B0223E8A523D.png "2D58CAA7 C226 4796 9B89 B0223E8A523D")
 
 ---
 

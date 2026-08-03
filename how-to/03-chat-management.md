@@ -15,7 +15,7 @@ title: "对话管理"
 - 删除单个或批量删除多个不再需要的对话。
 - 理解对话列表的排序与图标含义。
 
-![对话列表](./assets/chat-management/01-chat-list.png)
+![Image](/images/image-30.png "Image")
 
 ---
 

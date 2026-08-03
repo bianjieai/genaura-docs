@@ -16,7 +16,7 @@ title: "消息收发"
 - 对 AI 消息进行复制、点赞、点踩与重试。
 - 引用知识库文件作为消息附件。
 
-![消息区域](./assets/messaging/01-chat-area.png)
+![Image](/images/image-28.png "Image")
 
 ---
 
