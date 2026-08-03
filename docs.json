@@ -37,7 +37,8 @@
           "getting-started/02-login-account",
           "getting-started/03-onboarding",
           "getting-started/04-interface-overview"
-        ]
+        ],
+        "icon": "bullseye-arrow"
       },
       {
         "group": "核心概念",
@@ -47,7 +48,8 @@
           "concepts/03-insight-data",
           "concepts/04-ai-agent",
           "concepts/05-opportunity-risk"
-        ]
+        ],
+        "icon": "atom-alt"
       },
       {
         "group": "操作指南",
@@ -68,7 +70,8 @@
           "how-to/14-insight",
           "how-to/15-emotion-analysis",
           "how-to/16-preference-insight"
-        ]
+        ],
+        "icon": "compass"
       },
       {
         "group": "教程",
@@ -76,7 +79,8 @@
           "tutorials/01-first-brand",
           "tutorials/02-brand-monitoring",
           "tutorials/03-content-publish"
-        ]
+        ],
+        "icon": "book-open-lines"
       },
       {
         "group": "配置",
@@ -85,7 +89,8 @@
           "reference/02-update-maintenance",
           "reference/03-data-privacy",
           "reference/04-keyboard-shortcuts"
-        ]
+        ],
+        "icon": "tools"
       },
       {
         "group": "支持",
@@ -93,7 +98,8 @@
           "faq",
           "glossary",
           "troubleshooting"
-        ]
+        ],
+        "icon": "question-circle"
       }
     ]
   }

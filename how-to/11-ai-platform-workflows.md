@@ -8,7 +8,7 @@ GenAura 内置 5 个 AI 平台搜索工作流，覆盖 DeepSeek、通义千问�
 
 工作流运行过程中会持续检测登录态与验证码。一旦检测到登录态过期或人机验证，会暂停并向你请求接管浏览器——你在接管对话框中手动完成登录或验证后交还控制权，工作流会从失败步骤自动恢复执行。
 
-![AI 平台工作流运行流程](./assets/ai-platform-workflows/01-workflow.png)
+![Group 80](/images/Group-80.png "Group 80")
 
 读完本文，你将能够：
 
