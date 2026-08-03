@@ -49,7 +49,7 @@ GenAura 把品牌的搭建分成两个阶段——创建时只需填写四项轻
 
 > 创建品牌对话框**没有**「简介」「行业」等字段——这些信息全部在 [品牌配置](./02-brand-config.md) 中维护
 
-![Image](/images/image-27.png "Image")
+![Image 27](/images/image-27.png "Image 27")
 
 ### 2. 品牌切换
 
