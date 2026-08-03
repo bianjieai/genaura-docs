@@ -4,7 +4,7 @@ title: "登录与账户"
 
 ## 概述
 
-GenAura 桌面应用本身不提供账号注册入口，所有账号体系、订阅管理与个人信息维护都在[Web 控制台](https://genaura.bianjie.ai/dashboard/account/settings)完成。桌面应用通过安全的网页授权流程完成登录，登录后会自动保孷新的登录凭据，后续打开应用无需重复登录。
+GenAura 桌面应用本身不提供账号注册入口，所有账号体系、订阅管理与个人信息维护都在[Web 控制台](https://genaura.bianjie.ai/dashboard/account/settings)完成。桌面应用通过安全的网页授权流程完成登录，登录后会自动保存新的登录凭据，后续打开应用无需重复登录。
 
 本篇介绍：
 
