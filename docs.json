@@ -17,7 +17,7 @@
   "navbar": {
     "primary": {
       "type": "button",
-      "label": "下载",
+      "label": "下载应用",
       "href": "https://genaura.bianjie.ai/resources/downloads"
     },
     "links": []
