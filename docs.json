@@ -29,77 +29,82 @@
   },
   "description": "用户手册｜涵盖 GenAura 品牌知识库搭建、AI 诊断分析、智能写稿一键发布、效果追踪全流程操作指南，助你快速提升品牌 AI 声量。",
   "navigation": {
-    "groups": [
+    "languages": [
       {
-        "group": "快速入门",
-        "pages": [
-          "getting-started/01-installation",
-          "getting-started/02-login-account",
-          "getting-started/03-onboarding",
-          "getting-started/04-interface-overview"
-        ],
-        "icon": "bullseye-arrow"
-      },
-      {
-        "group": "核心概念",
-        "pages": [
-          "concepts/01-brand-model",
-          "concepts/02-workflow",
-          "concepts/03-insight-data",
-          "concepts/04-ai-agent",
-          "concepts/05-opportunity-risk"
-        ],
-        "icon": "atom-alt"
-      },
-      {
-        "group": "操作指南",
-        "pages": [
-          "how-to/01-brand-management",
-          "how-to/02-brand-config",
-          "how-to/03-chat-management",
-          "how-to/04-messaging",
-          "how-to/05-commands-mentions",
-          "how-to/06-sub-agent-approval",
-          "how-to/07-opportunities-risks",
-          "how-to/08-knowledge-base",
-          "how-to/09-file-editor",
-          "how-to/10-browser",
-          "how-to/11-ai-platform-workflows",
-          "how-to/12-cron-tasks",
-          "how-to/13-article-publish",
-          "how-to/14-insight",
-          "how-to/15-emotion-analysis",
-          "how-to/16-preference-insight"
-        ],
-        "icon": "compass"
-      },
-      {
-        "group": "教程",
-        "pages": [
-          "tutorials/01-first-brand",
-          "tutorials/02-brand-monitoring",
-          "tutorials/03-content-publish"
-        ],
-        "icon": "book-open-lines"
-      },
-      {
-        "group": "配置",
-        "pages": [
-          "reference/01-settings",
-          "reference/02-update-maintenance",
-          "reference/03-data-privacy",
-          "reference/04-keyboard-shortcuts"
-        ],
-        "icon": "tools"
-      },
-      {
-        "group": "支持",
-        "pages": [
-          "faq",
-          "glossary",
-          "troubleshooting"
-        ],
-        "icon": "question-circle"
+        "language": "zh",
+        "groups": [
+          {
+            "group": "快速入门",
+            "icon": "bullseye-arrow",
+            "pages": [
+              "zh/getting-started/01-installation",
+              "zh/getting-started/02-login-account",
+              "zh/getting-started/03-onboarding",
+              "zh/getting-started/04-interface-overview"
+            ]
+          },
+          {
+            "group": "核心概念",
+            "icon": "atom-alt",
+            "pages": [
+              "zh/concepts/01-brand-model",
+              "zh/concepts/02-workflow",
+              "zh/concepts/03-insight-data",
+              "zh/concepts/04-ai-agent",
+              "zh/concepts/05-opportunity-risk"
+            ]
+          },
+          {
+            "group": "操作指南",
+            "icon": "compass",
+            "pages": [
+              "zh/how-to/01-brand-management",
+              "zh/how-to/02-brand-config",
+              "zh/how-to/03-chat-management",
+              "zh/how-to/04-messaging",
+              "zh/how-to/05-commands-mentions",
+              "zh/how-to/06-sub-agent-approval",
+              "zh/how-to/07-opportunities-risks",
+              "zh/how-to/08-knowledge-base",
+              "zh/how-to/09-file-editor",
+              "zh/how-to/10-browser",
+              "zh/how-to/11-ai-platform-workflows",
+              "zh/how-to/12-cron-tasks",
+              "zh/how-to/13-article-publish",
+              "zh/how-to/14-insight",
+              "zh/how-to/15-emotion-analysis",
+              "zh/how-to/16-preference-insight"
+            ]
+          },
+          {
+            "group": "教程",
+            "icon": "book-open-lines",
+            "pages": [
+              "zh/tutorials/01-first-brand",
+              "zh/tutorials/02-brand-monitoring",
+              "zh/tutorials/03-content-publish"
+            ]
+          },
+          {
+            "group": "配置",
+            "icon": "tools",
+            "pages": [
+              "zh/reference/01-settings",
+              "zh/reference/02-update-maintenance",
+              "zh/reference/03-data-privacy",
+              "zh/reference/04-keyboard-shortcuts"
+            ]
+          },
+          {
+            "group": "支持",
+            "icon": "question-circle",
+            "pages": [
+              "zh/faq",
+              "zh/glossary",
+              "zh/troubleshooting"
+            ]
+          }
+        ]
       }
     ]
   },
