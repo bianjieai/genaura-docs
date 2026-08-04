@@ -81,7 +81,7 @@ GenAura 为不同平台提供以下安装包类型：
 
 ![Image](/images/image-3.png "Image")
 
-更多关于主界面布局的认知，请参阅 [界面总览](/getting-started/04-interface-overview)。
+更多关于主界面布局的认知，请参阅 [界面总览](/zh/getting-started/04-interface-overview)。
 
 ## 进阶用法
 
