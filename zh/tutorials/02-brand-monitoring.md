@@ -158,7 +158,7 @@ AI 平台跟踪决定了哪些平台会参与批量搜索。可跟踪的 5 个 A
 
 仪表盘同时渲染「**行业竞品对比**」数据。竞品提及率以**本品牌对话数**为分母，**可能超过 100%**（衡量「竞品在本品牌对话中被提及的频率」），这是设计行为。
 
-> **数据延迟提示**：刚跑完工作流看不到新数据是正常现象。常见原因：分析任务正在排队处理、任务处于重试中、或任务进入死信（如登录态过期、产品列表为空等）。请等待 1–2 分钟后刷新 AI 洞察 Tab。详见 [洞察数据概念](/concepts/03-insight-data)。
+> **数据延迟提示**：刚跑完工作流看不到新数据是正常现象。常见原因：分析任务正在排队处理、任务处于重试中、或任务进入死信（如登录态过期、产品列表为空等）。请等待 1–2 分钟后刷新 AI 洞察 Tab。详见 [洞察数据概念](https://docs.genaura.bianjie.ai/zh/concepts/03-insight-data)。
 
 ### 步骤 4：跟进机会与风险
 
@@ -187,7 +187,7 @@ AI 平台跟踪决定了哪些平台会参与批量搜索。可跟踪的 5 个 A
    - 「**完成**」按钮：**仅进行中状态显示**，点击后状态置为已完成，条目从导航区移出；
    - 「**删除**」按钮：任意状态都显示，**物理删除，不可恢复**，需二次确认。
 
-机会与风险机制的完整说明（含状态流转图、写入链路）见 [机会与风险机制](/concepts/05-opportunity-risk)。
+机会与风险机制的完整说明（含状态流转图、写入链路）见 [机会与风险机制](https://docs.genaura.bianjie.ai/zh/concepts/05-opportunity-risk)。
 
 ---
 
@@ -198,7 +198,7 @@ AI 平台跟踪决定了哪些平台会参与批量搜索。可跟踪的 5 个 A
 ### 调整「每日 AI 平台问答」执行时点
 
 1. 切换到「**定时任务**」Tab；
-2. 找到内置任务「**每日 AI 平台问答**」（默认每天 09:00 执行）；
+2. 找到内置任务「**每日 AI 平台问答**」（默认每天 10:30 执行）；
 3. 点击任务行的调度按钮或右侧「编辑」按钮，打开任务详情；
 4. 修改执行周期（如每 6 小时执行一次、每天 09:00 与 21:00 各一次等）；
 5. 保存后调度器会重新注册任务。
@@ -213,7 +213,7 @@ AI 平台跟踪决定了哪些平台会参与批量搜索。可跟踪的 5 个 A
 
 ### 自定义监测任务
 
-除了内置的「每日 AI 平台问答」，也可以在「定时任务」Tab 点击右上角「**新建**」按钮创建自定义任务，或直接在对话中告诉 Agent：「每天晚上 8 点跑一次平台问答搜索并基于结果给我一份洞察简报」——Agent 会自动创建对应的定时任务。详见 [定时任务操作指南](/how-to/12-cron-tasks)。
+除了内置的「每日 AI 平台问答」，也可以在「定时任务」Tab 点击右上角「**新建**」按钮创建自定义任务，或直接在对话中告诉 Agent：「每天晚上 8 点跑一次平台问答搜索并基于结果给我一份洞察简报」——Agent 会自动创建对应的定时任务。详见 [定时任务操作指南](https://docs.genaura.bianjie.ai/zh/how-to/12-cron-tasks)。
 
 ---
 
@@ -221,7 +221,7 @@ AI 平台跟踪决定了哪些平台会参与批量搜索。可跟踪的 5 个 A
 
 ### Q1：工作流首次运行就卡住，提示需要登录？
 
-5 个 AI 平台工作流均要求登录态。首次运行前请在「浏览器」Tab 中手动访问该平台并完成登录，登录态会持久化在独立空间中。工作流运行时若检测到未登录会弹出接管对话框，点击「立即接管」手动登录后「交还 Agent」即可恢复。详见 [工作流原理 — 为何需要登录态](/concepts/02-workflow)。
+5 个 AI 平台工作流均要求登录态。首次运行前请在「浏览器」Tab 中手动访问该平台并完成登录，登录态会持久化在独立空间中。工作流运行时若检测到未登录会弹出接管对话框，点击「立即接管」手动登录后「交还 Agent」即可恢复。详见 [工作流原理 — 为何需要登录态](https://docs.genaura.bianjie.ai/zh/concepts/02-workflow)。
 
 ### Q2：AI 平台跟踪最多能开启几个平台？
 
@@ -251,21 +251,21 @@ AI 平台跟踪决定了哪些平台会参与批量搜索。可跟踪的 5 个 A
 
 ## 相关文档
 
-- 前置教程：[首个品牌配置](/tutorials/01-first-brand)
+- 前置教程：[首个品牌配置](https://docs.genaura.bianjie.ai/zh/tutorials/01-first-brand)
 - 概念解释：
-  - [品牌模型](/concepts/01-brand-model)（品牌/产品/竞品/关键词/预设问题的关系）
-  - [工作流原理](/concepts/02-workflow)（5 平台工作流机制、接管、异常检测）
-  - [洞察数据来源与品牌指数](/concepts/03-insight-data)（指标计算口径、数据更新频率）
-  - [机会与风险机制](/concepts/05-opportunity-risk)（状态流转、排序规则）
+  - [品牌模型](https://docs.genaura.bianjie.ai/zh/concepts/01-brand-model)（品牌/产品/竞品/关键词/预设问题的关系）
+  - [工作流原理](https://docs.genaura.bianjie.ai/zh/concepts/02-workflow)（5 平台工作流机制、接管、异常检测）
+  - [洞察数据来源与品牌指数](https://docs.genaura.bianjie.ai/zh/concepts/03-insight-data)（指标计算口径、数据更新频率）
+  - [机会与风险机制](https://docs.genaura.bianjie.ai/zh/concepts/05-opportunity-risk)（状态流转、排序规则）
 - 操作指南：
-  - [品牌配置](/how-to/02-brand-config)（四个分区详解）
-  - [AI 平台工作流](/how-to/11-ai-platform-workflows)
-  - [内嵌浏览器](/how-to/10-browser)（接管对话框、登录态管理）
-  - [AI 洞察](/how-to/14-insight)
-  - [机会与风险](/how-to/07-opportunities-risks)
-  - [定时任务](/how-to/12-cron-tasks)
-- 下一步教程：[从洞察到发布文章](/tutorials/03-content-publish)
+  - [品牌配置](https://docs.genaura.bianjie.ai/zh/how-to/02-brand-config)（四个分区详解）
+  - [AI 平台工作流](https://docs.genaura.bianjie.ai/zh/how-to/11-ai-platform-workflows)
+  - [内嵌浏览器](https://docs.genaura.bianjie.ai/zh/how-to/10-browser)（接管对话框、登录态管理）
+  - [AI 洞察](https://docs.genaura.bianjie.ai/zh/how-to/14-insight)
+  - [机会与风险](https://docs.genaura.bianjie.ai/zh/how-to/07-opportunities-risks)
+  - [定时任务](https://docs.genaura.bianjie.ai/zh/how-to/12-cron-tasks)
+- 下一步教程：[从洞察到发布文章](https://docs.genaura.bianjie.ai/zh/tutorials/03-content-publish)
 
 ---
 
-> 最后更新：2026-07-29 | 对应版本：v1.2.0
+> 最后更新：2026-08-06 | 对应版本：v1.2.0
