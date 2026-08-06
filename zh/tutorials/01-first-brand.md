@@ -41,7 +41,7 @@ flowchart TD
 
 - 已按 [安装指南](https://docs.genaura.bianjie.ai/zh/getting-started/01-installation) 在 macOS 或 Windows 上安装简曜并完成首次启动。
 - 已在简曜 Web 控制台拥有账号（或可在登录页注册）。
-- 建议先浏览 [界面总览](/getting-started/04-interface-overview)，了解三栏工作区与右侧 7 个 Tab 的布局。
+- 建议先浏览 [界面总览](https://docs.genaura.bianjie.ai/zh/getting-started/04-interface-overview)，了解三栏工作区与右侧 7 个 Tab 的布局。
 
 ---
 
@@ -49,7 +49,7 @@ flowchart TD
 
 ### 步骤 1：安装并启动应用
 
-按 [安装指南](/getting-started/01-installation) 下载并安装对应平台的安装包，首次启动后未登录状态下会自动跳转到登录页。
+按 [安装指南](https://docs.genaura.bianjie.ai/zh/getting-started/01-installation) 下载并安装对应平台的安装包，首次启动后未登录状态下会自动跳转到登录页。
 
 ### 步骤 2：登录账号
 
@@ -62,8 +62,8 @@ flowchart TD
 ### 步骤 3：创建品牌
 
 1. 在工作区**左上角品牌选择器**中点击展开品牌列表。
-2. 列表底部点击「新建品牌」按钮，按钮右侧会显示当前品牌数量与上限（如 `0/3`）。
-   > 品牌数量上限默认为 3。达到上限时按钮会置灰并提示「已达到品牌数量上限」，悬停时可查看「还可创建 N 个品牌」。
+2. 列表底部点击「新建品牌」按钮，按钮右侧会显示当前品牌数量与上限（如 `0/1`）。
+   > 品牌数量上限默认为 1。达到上限时按钮会置灰并提示「已达到品牌数量上限」，悬停时可查看「还可创建 N 个品牌」。
 3. 在弹出的「新建品牌」对话框中填写以下字段： <img src="./assets/first-brand/01-create.png" alt="创建品牌对话框" />
    | 字段 | 是否必填 | 说明 |
    | --- | :-: | --- |
@@ -72,14 +72,14 @@ flowchart TD
    | 品牌网页与社交链接 | 否 | 标签式输入，按 Enter / 逗号 / 空格确认；粘贴多链接会自动拆分并校验去重 |
    | 品牌白皮书与素材文件 | 否 | 点击浏览或拖拽上传，支持 Markdown、TXT、DOCX、PDF，单文件不超过 20MB |
    - 对话框副标题为「上传品牌资料，即刻开始诊断」。
-   - 链接格式无效时会提示「请输入有效的网页链接（例如：example.com 或 [https://example.com）」，重复时会提示「该链接已在列表中」。](https://example.com）」，重复时会提示「该链接已在列表中」。)
+   - 链接格式无效时会提示「请输入有效的网页链接（例如：example.com 或 https://example.com）」，**重复时会提示「该链接已在列表中」。**
    - 素材文件仅支持 Markdown、TXT、DOCX、PDF，单文件超过 20MB 会即时提示超限。
    - 对话框底部提示：「关于品牌诊断：提供越丰富的品牌足迹和物料，诊断结果越精准」。
-4. 点击底部「新建品牌」按钮提交（提交期间按钮显示「创建中...」并禁用）。
+4. 点击底部「新建品牌」按钮提交。
    > 创建品牌时填写的素材文件会自动导入到知识库的「原始物料与素材」目录中，可在右侧面板「知识库」Tab 中查看。
 5. 创建成功后对话框自动关闭，新建的品牌自动切换为当前活跃品牌。
 
-> 创建品牌对话框**没有**「简介」「行业」等字段——这些信息会在下一步「品牌配置」中维护。详见 [品牌模型](/concepts/01-brand-model) 中「创建品牌 vs 品牌配置」的字段差异对照。
+> 创建品牌对话框**没有**「简介」「行业」等字段——这些信息会在下一步「品牌配置」中维护。详见 [品牌模型](https://docs.genaura.bianjie.ai/zh/concepts/01-brand-model) 中「创建品牌与品牌配置」的字段差异对照。
 
 ### 步骤 4：进入品牌配置 Tab
 
@@ -161,9 +161,9 @@ flowchart TD
 
 #### 数量上限
 
-预设问题总数上限为 **30 条**（品牌级问题 \+ 所有产品级问题的**合计上限**）。新增前若已达上限，会以 toast 提示「提问数量已达上限（30 个），请先删除已有问题后再添加」并拦截新增。
+预设问题总数上限为 **15 条**（品牌级问题 \+ 所有产品级问题的**合计上限**）。新增前若已达上限，会以 toast 提示「提问数量已达上限（15 条），请先删除已有问题后再添加」并拦截新增。
 
-> 没有预设问题时显示「暂无问题」；问题数达到 10 条时，列表会自动启用滚动。
+> 没有预设问题时显示「暂无问题」；问题数达到 5 条时，列表会自动启用滚动。
 
 ### 步骤 9：配置 AI 平台跟踪
 
@@ -173,7 +173,7 @@ flowchart TD
 
 > 同一品牌最多同时开启 3 个平台。新品牌首次打开时，系统会自动开启 DeepSeek、豆包、通义千问这 3 个平台；你可以按需手动调整。文心一言平台会显示「敬请期待」徽章，开关不可点击。
 
-工作流运行机制详见 [AI 平台工作流](/concepts/02-workflow)。
+工作流运行机制详见 [AI 平台工作流](https://docs.genaura.bianjie.ai/zh/how-to/11-ai-platform-workflows)。
 
 ### 步骤 10：上传素材到知识库
 
@@ -198,7 +198,7 @@ flowchart TD
 
 > 扫描件 PDF 暂不支持解析，导入时会提示「目前暂不支持扫描件 PDF，请上传可编辑的文档」。CSV / Excel / 图片等类型只能在文件编辑器中预览，不能导入知识库。
 
-详细操作参见 [知识库管理](/how-to/08-knowledge-base)。
+详细操作参见 [知识库管理](https://docs.genaura.bianjie.ai/zh/how-to/08-knowledge-base)。
 
 ---
 
@@ -229,10 +229,10 @@ flowchart TD
 
 完成本教程后，品牌已具备完整画像，可以：
 
-- 运行 [AI 平台工作流](/how-to/11-ai-platform-workflows) 采集各平台搜索结果。
-- 在 [AI 洞察](/how-to/14-insight) 中查看品牌指数与综合指标。
-- 跟进 [机会与风险](/how-to/07-opportunities-risks) 自动识别的待办。
-- 进入下一篇教程 [执行一次完整品牌监测](/tutorials/02-brand-monitoring)。
+- 运行 [AI 平台工作流](https://docs.genaura.bianjie.ai/zh/how-to/11-ai-platform-workflows) 采集各平台搜索结果。
+- 在 [AI 洞察](https://docs.genaura.bianjie.ai/zh/how-to/14-insight) 中查看品牌指数与综合指标。
+- 跟进 [机会与风险](https://docs.genaura.bianjie.ai/zh/how-to/07-opportunities-risks) 自动识别的待办。
+- 进入下一篇教程 [执行一次完整品牌监测](https://docs.genaura.bianjie.ai/zh/tutorials/02-brand-monitoring)。
 
 ---
 
@@ -273,19 +273,19 @@ flowchart TD
 ## 相关文档
 
 - 前置阅读：
-  - [安装指南](/getting-started/01-installation)
-  - [登录与账户](/getting-started/02-login-account)
-  - [界面总览](/getting-started/04-interface-overview)
+  - [安装指南](https://docs.genaura.bianjie.ai/zh/getting-started/01-installation)
+  - [登录与账户](https://docs.genaura.bianjie.ai/zh/getting-started/02-login-account)
+  - [界面总览](https://docs.genaura.bianjie.ai/zh/getting-started/04-interface-overview)
 - 概念理解：
-  - [品牌模型](/concepts/01-brand-model)（创建品牌 vs 品牌配置的字段差异、数量上限与长度限制汇总）
-  - [AI 平台工作流](/concepts/02-workflow)
+  - [品牌模型](https://docs.genaura.bianjie.ai/zh/concepts/01-brand-model)（创建品牌 vs 品牌配置的字段差异、数量上限与长度限制汇总）
+  - [AI 平台工作流](https://docs.genaura.bianjie.ai/zh/how-to/11-ai-platform-workflows)
 - 操作指南：
-  - [品牌管理](/how-to/01-brand-management)（品牌创建/切换/删除）
-  - [品牌配置](/how-to/02-brand-config)（四分区与问题矩阵详解）
-  - [知识库管理](/how-to/08-knowledge-base)（导入/搜索/编辑/发送到对话）
+  - [品牌管理](https://docs.genaura.bianjie.ai/zh/how-to/01-brand-management)（品牌创建/切换/删除）
+  - [品牌配置](https://docs.genaura.bianjie.ai/zh/how-to/02-brand-config)（四分区与问题矩阵详解）
+  - [知识库管理](https://docs.genaura.bianjie.ai/zh/how-to/08-knowledge-base)（导入/搜索/编辑/发送到对话）
 - 下一步教程：
-  - [执行一次完整品牌监测](/tutorials/02-brand-monitoring)
+  - [执行一次完整品牌监测](https://docs.genaura.bianjie.ai/zh/tutorials/02-brand-monitoring)
 
 ---
 
-> 最后更新：2026-07-29 | 对应版本：v1.2.0
+> 最后更新：2026-08-06 | 对应版本：v1.2.0
