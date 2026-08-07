@@ -14,11 +14,11 @@ title: "偏好洞察"
 - 解读「偏好数据总览」「信源分布」「信源引用排名」「信源引用详情」四块视图；
 - 借助「发布内容追踪」面板，将自有投放链接与 AI 引用结果做对照，判断 GEO 投放效果。
 
-数据来源：所有指标均基于 AI 平台搜索工作流执行时采集的「引用来源」聚合而成，并非实时抓取。详见 [AI 平台工作流](/how-to/11-ai-platform-workflows)。
+数据来源：所有指标均基于 AI 平台搜索工作流执行时采集的「引用来源」聚合而成，并非实时抓取。详见 [AI 平台工作流](/zh/how-to/11-ai-platform-workflows)。
 
 ## 前置条件
 
-1. 已登录 GenAura 并完成至少一个品牌的创建（见 [品牌管理](/how-to/01-brand-management)）。
+1. 已登录 GenAura 并完成至少一个品牌的创建（见 [品牌管理](/zh/how-to/01-brand-management)）。
 2. 当前品牌已运行过 AI 平台搜索工作流，且工作流产出了带有内容渠道信息的引用记录。否则页面会显示空状态文案「暂无数据」。
 3. 若当前未选择任何品牌，页面会显示「暂无品牌数据 / 请先在品牌管理中创建或选择一个品牌」。
 4. 偏好洞察的筛选条件独立于「AI 洞察」Tab：
@@ -72,7 +72,7 @@ title: "偏好洞察"
 - 「未确认」状态下，悬浮状态标签会弹出气泡，可手动「标记为已发布」或「标记为已拒绝」。
 - 列表中匹配到的文章会在「信源引用详情」对话框中显示「GenAura 标签」。
 
-> 该面板的添加、编辑、删除等操作详见 [文章发布](/how-to/13-article-publish)。
+> 该面板的添加、编辑、删除等操作详见 [文章一键发布](/zh/how-to/13-article-publish)。
 
 ### 5. 信源引用排名
 
@@ -130,7 +130,7 @@ title: "偏好洞察"
 - **时间范围按钮组**：近 7 天 / 近 15 天 / 近 30 天 / 近 90 天。点击后重新拉取全页数据。若当前时间范围与任一预设差距超过 2 天，则所有按钮均不选中。
 - **平台下拉**：默认「全部平台」，其余选项为各 AI 平台（DeepSeek / 通义千问 / 豆包 / Kimi / 腾讯元宝）。切换后重新拉取全页数据。
 
-> 注意：偏好洞察 Tab **不展示问题类型筛选**，始终查询全部问题类型的数据。如需按问题类型筛选，请使用 [AI 洞察](/how-to/14-insight) Tab。
+> 注意：偏好洞察 Tab **不展示问题类型筛选**，始终查询全部问题类型的数据。如需按问题类型筛选，请使用 [AI 洞察](/zh/how-to/14-insight) Tab。
 
 ### 通过 GenAura 标签评估 GEO 投放效果
 
@@ -167,18 +167,18 @@ title: "偏好洞察"
 
 **Q3：详情对话框中的「GenAura 标签」是如何判定的？** A：系统会将文章链接与你在「发布内容追踪」面板中添加的投放链接进行比对，匹配则显示「GenAura 标签」。仅当品牌在「发布内容追踪」中添加过对应发布链接时才会命中。
 
-**Q4：切换品牌后数据为什么没有立即更新？** A：切换品牌后会自动重新拉取全页数据。如遇延迟，请检查筛选条件是否与预期一致，或参考 [故障排查](/troubleshooting)。
+**Q4：切换品牌后数据为什么没有立即更新？** A：切换品牌后会自动重新拉取全页数据。如遇延迟，请检查筛选条件是否与预期一致，或参考 [故障排查](/zh/troubleshooting)。
 
 **Q5：进入页面时为什么有时会有短暂的发布状态刷新？** A：进入页面时系统会在后台自动检查「审核中」状态的投放记录是否已被平台审核通过。该调用不影响页面其他数据的加载。
 
 ## 相关文档
 
-- 前置阅读：[界面总览](/getting-started/04-interface-overview)、[品牌管理](/how-to/01-brand-management)
-- 数据来源：[AI 平台工作流](/how-to/11-ai-platform-workflows)、[定时任务](/how-to/12-cron-tasks)
-- 同类洞察：[AI 洞察](/how-to/14-insight)、[情感分析](/how-to/15-emotion-analysis)
-- 关联功能：[文章发布](/how-to/13-article-publish)、[知识库](/how-to/08-knowledge-base)
-- 概念背景：[洞察数据从何而来](/concepts/03-insight-data)[从何而来](/zh/concepts/03-insight-data)
-- 故障排查：[故障排查](/troubleshooting)
+- 前置阅读：[界面总览](/zh/getting-started/04-interface-overview)、[品牌管理](/zh/how-to/01-brand-management)
+- 数据来源：[AI 平台工作流](/zh/how-to/11-ai-platform-workflows)、[定时任务](/zh/how-to/12-cron-tasks)
+- 同类洞察：[AI 洞察](/zh/how-to/14-insight)、[情感分析](/zh/how-to/15-emotion-analysis)
+- 关联功能：[文章一键发布](/zh/how-to/13-article-publish)、[知识库](/zh/how-to/08-knowledge-base)
+- 概念背景：[洞察数据来源](/zh/concepts/03-insight-data)
+- 故障排查：[故障排查](/zh/troubleshooting)
 
 ---
 
