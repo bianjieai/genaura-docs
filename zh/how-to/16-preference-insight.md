@@ -177,7 +177,7 @@ title: "偏好洞察"
 - 数据来源：[AI 平台工作流](/how-to/11-ai-platform-workflows)、[定时任务](/how-to/12-cron-tasks)
 - 同类洞察：[AI 洞察](/how-to/14-insight)、[情感分析](/how-to/15-emotion-analysis)
 - 关联功能：[文章发布](/how-to/13-article-publish)、[知识库](/how-to/08-knowledge-base)
-- 概念背景：[洞察数据从何而来](/concepts/03-insight-data)
+- 概念背景：[洞察数据从何而来](/concepts/03-insight-data)[从何而来](/zh/concepts/03-insight-data)
 - 故障排查：[故障排查](/troubleshooting)
 
 ---
