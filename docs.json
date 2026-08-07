@@ -6,10 +6,6 @@
     "light": "#0066ff",
     "dark": "#0057ff"
   },
-  "logo": {
-    "light": "/images/GenAura-Horizontal-White.png",
-    "dark": "/images/GenAura-Black.png"
-  },
   "favicon": {
     "light": "/images/GenAura-White.png",
     "dark": "/images/GenAura-Black.png"
