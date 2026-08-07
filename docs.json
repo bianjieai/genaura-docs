@@ -89,7 +89,6 @@
             "group": "配置",
             "icon": "tools",
             "pages": [
-              "zh/reference/02-update-maintenance",
               "zh/reference/03-data-privacy",
               "zh/reference/01-settings"
             ]
