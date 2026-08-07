@@ -18,11 +18,11 @@ GenAura 内置 5 个 AI 平台搜索工作流，覆盖 DeepSeek、通义千问�
 - 查看工作流产出的「答案 \+ 引用来源」结果
 - 通过定时任务周期性触发 5 个平台工作流
 
-> 工作流的运行机制（运行流程、接管提示、异常处理）请先阅读 [工作流原理](/concepts/02-workflow)。本文聚焦于「如何操作」。
+> 工作流的运行机制（运行流程、接管提示、异常处理）请先阅读 [工作流原理](/zh/concepts/02-workflow)。本文聚焦于「如何操作」。
 
 ## 前置条件
 
-- 已登录 GenAura 账户并创建至少一个品牌（见 [登录与账户](/getting-started/02-login-account)、[品牌管理](/how-to/01-brand-management)）。
+- 已登录 GenAura 账户并创建至少一个品牌（见 [登录与账户](/zh/getting-started/02-login-account)、[品牌管理](/how-to/01-brand-management)）。
 - 已在「品牌配置 → AI 平台跟踪」中启用至少一个 AI 平台（见 [品牌配置](/how-to/02-brand-config)）。
 - **首次运行某个 AI 平台工作流前，需确保该平台在内嵌浏览器中已登录**。工作流会在导航后自动检测登录态，未登录时将弹出接管对话框引导你完成登录。
 - 已阅读 [内嵌浏览器](/how-to/10-browser) 的接管对话框与登录态管理。
