@@ -24,9 +24,9 @@ title: "数据与隐私"
 
 | 操作系统 | 默认用户数据目录 |
 | --- | --- |
-| macOS | `~/Library/Application Support/GenAura` |
-| Windows | `%APPDATA%\GenAura` |
-| Linux | `~/.config/GenAura` |
+| macOS | `~/Library/Application Support/genaura` |
+| Windows | `%APPDATA%\genaura` |
+| Linux | `~/.config/genaura` |
 
 > 该目录由简曜自主管理，普通使用无需手动进入。后续提到的"用户数据目录"均指此位置。
 
@@ -193,7 +193,7 @@ title: "数据与隐私"
 按以下顺序手动删除（应用需先退出）：
 
 1. 退出简曜应用
-2. 删除整个用户数据目录（macOS：`~/Library/Application Support/GenAura`；Windows：`%APPDATA%\GenAura`；Linux：`~/.config/GenAura`）
+2. 删除整个用户数据目录（macOS：`~/Library/Application Support/genaura`；Windows：`%APPDATA%\genaura`；Linux：`~/.config/genaura`）
 3. 重新启动应用，会以全新状态初始化数据库与目录结构
 
 > 删除前如需保留品牌内容，请先手动复制该品牌对应的知识库目录到其他位置。
