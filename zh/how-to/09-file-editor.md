@@ -24,8 +24,8 @@ title: "文件编辑器"
 
 ## 前置条件
 
-- 已登录 GenAura，并已创建或切换到某个品牌工作区（参见 [品牌管理](/how-to/01-brand-management)）。
-- 已打开右侧面板「知识库」Tab，并在列表中点击一个文件节点进入编辑器（参见 [知识库](/how-to/08-knowledge-base)）。
+- 已登录 GenAura，并已创建或切换到某个品牌工作区（参见 [品牌管理](/zh/how-to/01-brand-management)）。
+- 已打开右侧面板「知识库」Tab，并在列表中点击一个文件节点进入编辑器（参见 [知识库](/zh/how-to/08-knowledge-base)）。
 - 导出 Word/PDF 时需等待后台转换完成，建议文件不超过 20 MB，否则转换可能较慢。
 
 ## 操作步骤
@@ -173,7 +173,7 @@ PDF、Word、图片、Excel 等二进制文件点击下载按钮时**不弹出�
 
 ### C. 从编辑器一键发布
 
-在编辑器顶部点击「发布」按钮，可基于当前文件内容打开发布对话框，将 GEO 文章一键发布到目标平台，详见 [文章发布](/how-to/13-article-publish)。
+在编辑器顶部点击「发布」按钮，可基于当前文件内容打开发布对话框，将 GEO 文章一键发布到目标平台，详见 [文章发布](/zh/how-to/13-article-publish)。
 
 ## 常见问题
 
@@ -193,11 +193,11 @@ PDF、Word、图片、Excel 等二进制文件点击下载按钮时**不弹出�
 
 ## 相关文档
 
-- 前置阅读：[知识库](/how-to/08-knowledge-base) — 了解文件如何进入编辑器
-- 关联功能：[文章发布](/how-to/13-article-publish) — 从编辑器一键发布到目标平台
-- 关联功能：[消息与附件](/how-to/04-messaging) — 「添加至对话」引用卡片在输入框中的渲染
-- 概念背景：[AI Agent 协作模型](/concepts/04-ai-agent) — Agent 如何在后台更新系统文件并触发热刷新
-- 故障排查：[故障排查](/troubleshooting) — 导出失败、草稿丢失等问题
+- 前置阅读：[知识库](/zh/how-to/08-knowledge-base) — 了解文件如何进入编辑器
+- 关联功能：[文章发布](/zh/how-to/13-article-publish) — 从编辑器一键发布到目标平台
+- 关联功能：[消息收发](/zh/how-to/04-messaging)— 「添加至对话」引用卡片在输入框中的渲染
+- 概念背景：[AI Agent 协作模型](/zh/concepts/04-ai-agent) — Agent 如何在后台更新系统文件并触发热刷新
+- 故障排查：[故障排查](/zh/troubleshooting) — 导出失败、草稿丢失等问题
 
 ---
 

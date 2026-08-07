@@ -21,8 +21,8 @@ GenAura 内置了一个浏览器，让你无需切换到外部浏览器即可在
 
 ## 前置条件
 
-- 已登录 GenAura，并已创建或切换到某个品牌工作区（参见 [品牌管理](/how-to/01-brand-management)）。
-- 已打开右侧面板「浏览器」Tab（参见 [界面概览](/getting-started/04-interface-overview)）。
+- 已登录 GenAura，并已创建或切换到某个品牌工作区（参见 [品牌管理](/zh/how-to/01-brand-management)）。
+- 已打开右侧面板「浏览器」Tab（参见 [界面概览](/zh/getting-started/04-interface-overview)）。
 - 需访问外网；首次访问部分 AI 平台需要手动登录账号。
 
 ## 操作步骤
@@ -71,7 +71,7 @@ GenAura 内置了一个浏览器，让你无需切换到外部浏览器即可在
 
 ### 4. 接管浏览器
 
-当 AI Agent 运行 [AI 平台工作流](/how-to/11-ai-platform-workflows) 或 [文章发布](/how-to/13-article-publish) 时，若遇到登录、验证码、风控等场景，会暂停并请求你接管浏览器。
+当 AI Agent 运行 [AI 平台工作流](/zh/how-to/11-ai-platform-workflows) 或 [文章一键发布](/zh/how-to/13-article-publish) 时，若遇到登录、验证码、风控等场景，会暂停并请求你接管浏览器。
 
 #### 接管流程
 
@@ -124,11 +124,11 @@ GenAura 内嵌浏览器对登录态做了持久化处理：
 
 ### B. 与文章发布共享登录态
 
-[文章发布](/how-to/13-article-publish) 功能会复用内嵌浏览器的登录态，因此发布到百家号、CSDN、搜狐号、掘金等平台前，请先在内嵌浏览器中登录对应平台，避免发布时被拦截到登录页。
+[文章一键发布](/zh/how-to/13-article-publish) 功能会复用内嵌浏览器的登录态，因此发布到百家号、CSDN、搜狐号、掘金等平台前，请先在内嵌浏览器中登录对应平台，避免发布时被拦截到登录页。
 
 ### C. 复制网页正文到知识库
 
-部分反爬严格的站点（如付费墙、登录墙内容）无法通过 [URL 导入](/how-to/08-knowledge-base#4-导入-url) 直接抓取。可：
+部分反爬严格的站点（如付费墙、登录墙内容）无法通过 URL 导入 直接抓取。可：
 
 1. 在内嵌浏览器中打开该网页，必要时登录账号。
 2. 手动复制所需正文内容。
@@ -152,12 +152,12 @@ GenAura 内嵌浏览器对登录态做了持久化处理：
 
 ## 相关文档
 
-- 前置阅读：[界面概览](/getting-started/04-interface-overview) — 了解右侧面板与浏览器 Tab 位置
-- 关联功能：[AI 平台工作流](/how-to/11-ai-platform-workflows) — 工作流运行中的接管场景
-- 关联功能：[文章发布](/how-to/13-article-publish) — 发布流程共享浏览器登录态
-- 关联功能：[知识库](/how-to/08-knowledge-base) — 手动复制网页正文入库
-- 概念背景：[AI Agent 协作模型](/concepts/04-ai-agent) — Agent 与人工协作机制
-- 故障排查：[故障排查](/troubleshooting) — 浏览器接管失败、登录态丢失等问题
+- 前置阅读：[界面概览](/zh/getting-started/04-interface-overview) — 了解右侧面板与浏览器 Tab 位置
+- 关联功能：[AI 平台工作流](/zh/how-to/11-ai-platform-workflows) — 工作流运行中的接管场景
+- 关联功能：[文章发布](/zh/how-to/13-article-publish) — 发布流程共享浏览器登录态
+- 关联功能：[知识库](/zh/how-to/08-knowledge-base) — 手动复制网页正文入库
+- 概念背景：[AI Agent 协作模型](/zh/concepts/04-ai-agent) — Agent 与人工协作机制
+- 故障排查：[故障排查](/zh/troubleshooting) — 浏览器接管失败、登录态丢失等问题
 
 ---
 

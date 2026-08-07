@@ -7,12 +7,12 @@
     "dark": "#0057ff"
   },
   "logo": {
-    "light": "https://media.brand.dev/fc5ead7f-f963-4dd8-bacd-680068bb8dee.png",
-    "dark": "/images/GenAura-Horizontal-White.png"
+    "light": "/images/GenAura-Horizontal-White.png",
+    "dark": "/images/GenAura-Black.png"
   },
   "favicon": {
-    "light": "https://media.brand.dev/282139df-eae1-458c-b392-8c769e45b07a.png",
-    "dark": "/images/GenAura-Horizontal-White.png"
+    "light": "/images/GenAura-Horizontal-White.png",
+    "dark": "/images/GenAura-Black.png"
   },
   "navbar": {
     "primary": {
@@ -91,7 +91,6 @@
             "pages": [
               "zh/reference/02-update-maintenance",
               "zh/reference/03-data-privacy",
-              "zh/reference/04-keyboard-shortcuts",
               "zh/reference/01-settings"
             ]
           },
