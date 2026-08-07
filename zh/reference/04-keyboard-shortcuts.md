@@ -4,9 +4,9 @@ title: "快捷键参考"
 
 ## 概述
 
-GenAura 的快捷键分布在多个功能区域，包括 macOS 应用菜单、对话输入框、内嵌浏览器、对话框、工作区面板等。本篇按区域整理**当前版本中真实存在**的快捷键，所有组合键均区分 macOS（⌘ Cmd）与 Windows（Ctrl）。
+简曜的快捷键分布在多个功能区域，包括 macOS 应用菜单、对话输入框、内嵌浏览器、对话框、工作区面板等。本篇按区域整理**当前版本中真实存在**的快捷键，所有组合键均区分 macOS（⌘ Cmd）与 Windows（Ctrl）。
 
-> 说明：GenAura 在 Windows / Linux 平台**不显示应用菜单栏**，因此 macOS 应用菜单相关快捷键**仅 macOS 可用**。文本编辑的剪切 / 复制 / 粘贴（Ctrl\+X / C / V）在所有平台上仍可使用系统默认快捷键。
+> 说明：简曜在 Windows / Linux 平台**不显示应用菜单栏**，因此 macOS 应用菜单相关快捷键**仅 macOS 可用**。文本编辑的剪切 / 复制 / 粘贴（Ctrl\+X / C / V）在所有平台上仍可使用系统默认快捷键。
 
 ---
 
@@ -18,8 +18,8 @@ GenAura 的快捷键分布在多个功能区域，包括 macOS 应用菜单、�
 
 | 组合键 | 作用 |
 | --- | --- |
-| ⌘Q | 退出 GenAura |
-| ⌘H | 隐藏 GenAura 窗口 |
+| ⌘Q | 退出简曜 |
+| ⌘H | 隐藏简曜窗口 |
 | ⌘Alt\+H | 隐藏其他应用窗口 |
 
 > macOS 应用菜单中还提供"显示全部"菜单项（用于显示所有被隐藏的窗口），无固定快捷键，可通过菜单栏点击触发。
@@ -157,7 +157,7 @@ GenAura 的快捷键分布在多个功能区域，包括 macOS 应用菜单、�
 
 ## 对话框通用快捷键
 
-适用于所有基于 GenAura 通用对话框组件渲染的窗口（如设置、导入对话框、发布对话框、添加品牌对话框等）：
+适用于所有基于简曜通用对话框组件渲染的窗口（如设置、导入对话框、发布对话框、添加品牌对话框等）：
 
 | 组合键 | 作用 | 适用区域 |
 | --- | --- | --- |
@@ -189,7 +189,7 @@ GenAura 的快捷键分布在多个功能区域，包括 macOS 应用菜单、�
 
 ### Q1：在 Windows 上为什么没有应用菜单栏？
 
-GenAura 在 Windows / Linux 平台不显示菜单栏。因此 macOS 应用菜单中的"撤销 / 重做 / 剪切 / 复制 / 粘贴 / 全选 / 缩放 / 全屏"等快捷键在 Windows 上**不通过应用菜单提供**；但文本编辑的剪切 / 复制 / 粘贴（Ctrl\+X / C / V）仍可由系统默认行为处理。如需最大化窗口，请使用系统自带的最大化按钮或 Win\+↑。
+简曜在 Windows / Linux 平台不显示菜单栏。因此 macOS 应用菜单中的"撤销 / 重做 / 剪切 / 复制 / 粘贴 / 全选 / 缩放 / 全屏"等快捷键在 Windows 上**不通过应用菜单提供**；但文本编辑的剪切 / 复制 / 粘贴（Ctrl\+X / C / V）仍可由系统默认行为处理。如需最大化窗口，请使用系统自带的最大化按钮或 Win\+↑。
 
 ### Q2：为什么 F5 / F12 / ⌘R 在正式版中不生效？
 
@@ -222,13 +222,13 @@ GenAura 在 Windows / Linux 平台不显示菜单栏。因此 macOS 应用菜单
 
 ## 相关文档
 
-- [界面总览](/getting-started/04-interface-overview) — 三栏布局、右侧 Tab、面板折叠与最大化
-- [消息发送与渲染](/how-to/04-messaging) — 对话输入框的发送 / 换行 / `@` 引用 / `/` 指令
-- [命令与 @提及](/how-to/05-commands-mentions) — `/` 指令与 `@` 知识库引用的详细用法
-- [文件编辑器](/how-to/09-file-editor) — 统一文件编辑器的能力边界与保存方式
-- [内嵌浏览器](/how-to/10-browser) — 浏览器 Tab 的接管机制与状态说明
-- [新手引导](/getting-started/03-onboarding) — 8 步引导流程
-- [设置](/reference/01-settings) — 应用设置、主题、防休眠等
+- [界面总览](https://docs.genaura.bianjie.ai/zh/getting-started/04-interface-overview) — 三栏布局、右侧 Tab、面板折叠与最大化
+- [消息发送与渲染](https://docs.genaura.bianjie.ai/zh/how-to/04-messaging) — 对话输入框的发送 / 换行 / `@` 引用 / `/` 指令
+- [命令与提及](https://docs.genaura.bianjie.ai/zh/how-to/05-commands-mentions) — `/` 指令与 `@` 知识库引用的详细用法
+- [文件编辑器](https://docs.genaura.bianjie.ai/zh/how-to/09-file-editor) — 统一文件编辑器的能力边界与保存方式
+- [内嵌浏览器](https://docs.genaura.bianjie.ai/zh/how-to/10-browser) — 浏览器 Tab 的接管机制与状态说明
+- [新手引导](https://docs.genaura.bianjie.ai/zh/getting-started/03-onboarding) — 8 步引导流程
+- [设置](https://docs.genaura.bianjie.ai/zh/reference/01-settings) — 应用设置、主题、防休眠等
 
 ---
 

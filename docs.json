@@ -1,18 +1,14 @@
 {
   "theme": "mint",
-  "name": "GenAura",
+  "name": "简曜",
   "colors": {
     "primary": "#0057ff",
     "light": "#0066ff",
     "dark": "#0057ff"
   },
-  "logo": {
-    "light": "https://media.brand.dev/fc5ead7f-f963-4dd8-bacd-680068bb8dee.png",
-    "dark": "/images/GenAura-Horizontal-White.png"
-  },
   "favicon": {
-    "light": "https://media.brand.dev/282139df-eae1-458c-b392-8c769e45b07a.png",
-    "dark": "/images/GenAura-Horizontal-White.png"
+    "light": "/images/GenAura-Black.png",
+    "dark": "/images/GenAura-Black.png"
   },
   "navbar": {
     "primary": {
@@ -27,7 +23,7 @@
       "website": "https://genaura.bianjie.ai/"
     }
   },
-  "description": "用户手册｜涵盖 GenAura 品牌知识库搭建、AI 诊断分析、智能写稿一键发布、效果追踪全流程操作指南，助你快速提升品牌 AI 声量。",
+  "description": "用户手册｜涵盖简曜（GenAura）品牌知识库搭建、AI 诊断分析、智能写稿一键发布、效果追踪全流程操作指南，助你快速提升品牌 AI 声量。",
   "navigation": {
     "languages": [
       {
@@ -82,7 +78,7 @@
             "pages": [
               "zh/tutorials/01-first-brand",
               "zh/tutorials/02-brand-monitoring",
-              "zh/tutorials/03-content-publish"
+              "tutorials/03-content-publish"
             ]
           },
           {
@@ -110,5 +106,9 @@
   },
   "search": {
     "prompt": "搜索"
+  },
+  "logo": {
+    "light": "/images/genaura-Black-text.png",
+    "dark": "/images/GenAura-Horizontal-White.png"
   }
 }
