@@ -86,7 +86,7 @@
             "icon": "tools",
             "pages": [
               "zh/reference/01-settings",
-              "zh/reference/02-update-maintenance.md",
+              "zh/reference/02-update-maintenance",
               "zh/reference/03-data-privacy"
             ]
           },
