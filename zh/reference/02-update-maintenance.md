@@ -213,8 +213,8 @@ title: "更新与维护"
 
 - [设置](https://docs.genaura.bianjie.ai/zh/reference/01-settings) — 通用设置与关于分区，更新入口位于"关于"
 - [安装指南](https://docs.genaura.bianjie.ai/zh/getting-started/01-installation) — 系统要求、下载与安装方式、首次启动
-- [登录与账号](/getting-started/02-login-account) — 登录流程，深链接协议用于承接授权回调
-- [文件编辑器](/how-to/09-file-editor) — 草稿恢复机制，重启安装前未保存内容的兜底
+- [登录与账号](https://docs.genaura.bianjie.ai/zh/getting-started/02-login-account) — 登录流程，深链接协议用于承接授权回调
+- [文件编辑器](https://docs.genaura.bianjie.ai/how-to/09-file-editor) — 草稿恢复机制，重启安装前未保存内容的兜底
 - [数据与隐私](https://docs.genaura.bianjie.ai/zh/reference/03-data-privacy) — 本地数据存储位置与磁盘空间守护的关联
 
 ---
