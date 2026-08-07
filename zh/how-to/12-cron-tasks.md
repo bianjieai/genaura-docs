@@ -277,11 +277,11 @@ Agent 接收到该消息后会：
 
 ## 相关文档
 
-- 前置阅读：[界面概览](/getting-started/04-interface-overview) — 认识右侧面板 7 个 Tab
+- 前置阅读：[界面概概览](/getting-started/04-interface-overview) — 认识右侧面板 7 个 Tab
 - 前置阅读：[品牌配置](/how-to/02-brand-config) — AI 平台跟踪与提问矩阵的配置入口
 - 关联篇目：[AI 平台工作流](/how-to/11-ai-platform-workflows) — 5 个平台工作流的运行机制与接管
 - 关联篇目：[对话管理](/how-to/03-chat-management) — 任务执行后自动创建的对话如何查看与管理
-- 概念背景：[工作流机制](/concepts/02-workflow) — 预定义工作流、异常检测、接管机制
+- 概念背景：[工作流机制](/concepts/02-workflow)[机制](/zh/concepts/02-workflow) — 预定义工作流、异常检测、接管机制
 - 概念背景：[洞察数据来源](/concepts/03-insight-data) — 任务采集的数据如何流入 AI 洞察
 - 故障排查：[故障排查](/troubleshooting) — 任务未执行、工作流卡住等问题
 
