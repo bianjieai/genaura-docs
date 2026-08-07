@@ -140,7 +140,7 @@ Generative Engine Optimization，生成式引擎优化。区别于面向搜索�
 
 ### 品牌指数
 
-AI 洞察 Tab 顶部展示的一组综合指标卡，包含 **推荐类对话次数、品牌提及数、品牌提及率、首位推荐率、前三推荐率**五项，可点击切换查看趋势图。这些指标基于所选时间范围、平台与问题类型筛选后的 AI 搜索结果计算得出。
+AI 洞察 Tab 顶部展示的一组综合指标卡，包含 **品牌提及数、品牌提及率、首位推荐率、前三推荐率**，可点击切换查看趋势图。这些指标基于所选时间范围、平台与问题类型筛选后的 AI 搜索结果计算得出。
 
 > 相关文档：[洞察数据来源](https://docs.genaura.bianjie.ai/zh/concepts/03-insight-data)、[AI 洞察](https://docs.genaura.bianjie.ai/zh/how-to/14-insight)
 
@@ -150,7 +150,7 @@ AI 洞察 Tab 顶部展示的一组综合指标卡，包含 **推荐类对话次
 
 > 相关文档：[洞察数据来源](https://docs.genaura.bianjie.ai/zh/concepts/03-insight-data)、[AI 洞察](https://docs.genaura.bianjie.ai/zh/how-to/14-insight)
 
-### 提及率
+### 品牌提及率
 
 AI 对话中提到你品牌或产品的对话数占 AI 对话总量的百分比。
 
@@ -174,15 +174,15 @@ AI 对话中提到你品牌或产品的对话数占 AI 对话总量的百分比�
 
 > 相关文档：[AI 洞察](https://docs.genaura.bianjie.ai/zh/how-to/14-insight)
 
-### 情感分析
+### AI 情感
 
-右侧面板的 Tab 之一，分析 AI 回答中对品牌的态度倾向（正面/负面/中性），包含情感概览、趋势图、关键词云、平台对比与问答详情。
+右侧面板的 Tab 之一，分析 AI 回答中对品牌的态度倾向（正面/负面/中性），包含情感分析概览、情感指数趋势、情感关键词云、各平台情感分布对比与情感指数排行榜。
 
 > 相关文档：[情感分析](https://docs.genaura.bianjie.ai/zh/how-to/15-emotion-analysis)
 
 ### AI 信源
 
-右侧面板的 Tab 之一，分析 AI 回答中引用了哪些信息来源（信源），包含信源分布、信源排名与信源对比，帮助你了解"AI 在谈论你时引用了谁"。
+右侧面板的 Tab 之一，分析 AI 回答中引用了哪些信息来源（信源），包含信源分布、信源排名、发布内容追踪，帮助你了解"AI 在谈论你时引用了谁"。
 
 > 相关文档：[偏好洞察](https://docs.genaura.bianjie.ai/zh/how-to/16-preference-insight)
 
@@ -198,7 +198,7 @@ AI 对话中提到你品牌或产品的对话数占 AI 对话总量的百分比�
 
 ### 系统目录
 
-随品牌自动创建的 7 个受控目录：**品牌画像、产品信息、竞品分析、GEO 内容、分析报告、原始物料与素材、经验与案例**。其下的系统文件可编辑内容但不可删除、重命名或移动位置。
+随品牌自动创建的 7 个受控目录：**品牌画像、产品信息、竞品分析、GEO 内容、分析报告、原始物料与素材、经验与案例**。
 
 > 相关文档：[知识库管理](https://docs.genaura.bianjie.ai/zh/how-to/08-knowledge-base)
 
