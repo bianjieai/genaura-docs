@@ -105,5 +105,9 @@
   },
   "search": {
     "prompt": "搜索"
+  },
+  "logo": {
+    "light": "/images/GenAura-Black.png",
+    "dark": "/images/GenAura-Horizontal-White.png"
   }
 }
