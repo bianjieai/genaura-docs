@@ -82,8 +82,7 @@
             "pages": [
               "zh/tutorials/01-first-brand",
               "zh/tutorials/02-brand-monitoring",
-              "zh/reference/01-settings",
-              "zh/tutorials/03-content-publish"
+              "tutorials/03-content-publish"
             ]
           },
           {
@@ -92,7 +91,8 @@
             "pages": [
               "zh/reference/02-update-maintenance",
               "zh/reference/03-data-privacy",
-              "zh/reference/04-keyboard-shortcuts"
+              "zh/reference/04-keyboard-shortcuts",
+              "zh/reference/01-settings"
             ]
           },
           {
