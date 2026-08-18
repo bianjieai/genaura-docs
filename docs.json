@@ -33,8 +33,9 @@
             "group": "快速入门",
             "icon": "bullseye-arrow",
             "pages": [
-              "zh/getting-started/01-installation",
+              "zh/Overview",
               "zh/getting-started/02-login-account",
+              "zh/getting-started/untitled-page",
               "zh/getting-started/03-onboarding",
               "zh/getting-started/04-interface-overview"
             ]
@@ -77,8 +78,7 @@
             "icon": "book-open-lines",
             "pages": [
               "zh/tutorials/01-first-brand",
-              "zh/tutorials/02-brand-monitoring",
-              "tutorials/03-content-publish"
+              "zh/tutorials/02-brand-monitoring"
             ]
           },
           {
