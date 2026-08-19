@@ -15,7 +15,9 @@ title: "品牌管理  "
 - 删除不再使用的品牌（含二次确认与当前品牌自动跳转）。
 - 理解为什么品牌列表里看不到系统保留品牌。
 
-![Group 77](/images/Group-77.png "Group 77")
+<Frame>
+  ![Image](/images/image-69.png "Image")
+</Frame>
 
 ---
 
@@ -49,7 +51,9 @@ title: "品牌管理  "
 
 > 创建品牌对话框**没有**「简介」「行业」等字段——这些信息全部在 [品牌配置](/how-to/02-brand-config) 中维护
 
-![Image 27](/images/image-27.png "Image 27")
+<Frame>
+  ![Image](/images/image-70.png "Image")
+</Frame>
 
 ### 2. 品牌切换
 
