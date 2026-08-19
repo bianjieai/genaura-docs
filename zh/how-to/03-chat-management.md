@@ -100,7 +100,7 @@ GenAura 提供两处重命名入口：
 
 > 快捷建议与输入框中的 `/` 指令一一对应，详见 [命令与提及](/how-to/05-commands-mentions)。
 
-![Image](/images/image-72.png "Image")
+![Image](/images/image-74.png "Image")
 
 ---
 
