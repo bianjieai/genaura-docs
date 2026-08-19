@@ -15,7 +15,9 @@ title: "对话管理"
 - 删除单个或批量删除多个不再需要的对话。
 - 理解对话列表的排序与图标含义。
 
-![Image](/images/image-30.png "Image")
+<Frame>
+  ![Image](/images/image-73.png "Image")
+</Frame>
 
 ---
 
