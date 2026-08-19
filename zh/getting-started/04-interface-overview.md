@@ -36,7 +36,9 @@ title: "界面总览"
 
 窗口默认尺寸为 1440 × 900 像素，最小尺寸为 1024 × 600 像素。两栏之间各有一条可拖拽的分隔条，用于调整宽度。
 
-![Image](/images/image-15.png "Image")
+<Frame>
+  ![Image](/images/image-61.png "Image")
+</Frame>
 
 > 提示：macOS 下窗口标题栏采用沉浸式设计（红绿灯按钮内嵌在左上角），整个顶部区域可拖拽移动窗口。Windows 下使用系统默认标题栏。
 
@@ -87,7 +89,9 @@ title: "界面总览"
 
 新对话状态下，消息流区域会显示欢迎界面与快捷指令建议（如"品牌 GEO 诊断""生成 GEO 文章""优化品牌知识库"）。详细操作见 [消息发送与渲染](/how-to/04-messaging) 与 [命令与 @提及](/how-to/05-commands-mentions)。
 
-![Group 71](/images/Group-71.png "Group 71")
+<Frame>
+  ![Image](/images/image-66.png "Image")
+</Frame>
 
 ### 4. 右侧面板
 
@@ -107,7 +111,9 @@ Tab 栏从左到右依次是 **7 个 Tab**：
 | 6 | 定时任务 | 时钟 | 配置 AI 平台问答跟踪等定时任务，查看运行状态 |
 | 7 | 浏览器 | 地球 | 内嵌浏览器，支持 Agent 自主浏览与用户手动浏览，可接管控制 |
 
-![Group 71](/images/Group-71-3.png "Group 71")
+<Frame>
+  ![A326a52d00061bf3ef46e2b2fb43572b](/images/a326a52d00061bf3ef46e2b2fb43572b.png "A326a52d00061bf3ef46e2b2fb43572b")
+</Frame>
 
 > 说明：
 >
@@ -160,7 +166,7 @@ Tab 栏下方是当前选中 Tab 的内容区。切换 Tab 时，内容区会加
 | 最大化右侧面板 | Tab 栏右侧的「最大化」按钮 | 隐藏左侧导航与中间聊天区，右侧面板占满工作区 |
 | 还原右侧面板 | Tab 栏右侧的「还原」按钮（最大化状态下） | 恢复三栏布局 |
 
-![Frame 15](/images/Frame-15.png "Frame 15")
+![Image](/images/image-68.png "Image")
 
 ## 进阶用法
 
