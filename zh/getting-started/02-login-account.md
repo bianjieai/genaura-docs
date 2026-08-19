@@ -34,7 +34,9 @@ title: "登录与账户"
 - 蓝色「使用网页登录」按钮
 - 底部的《用户协议》《隐私政策》链接
 
-![Image 3](/images/image-3.png "Image 3")
+<Frame>
+  ![Image](/images/image-47.png "Image")
+</Frame>
 
 ### 2. 点击「使用网页登录」
 
@@ -45,7 +47,9 @@ title: "登录与账户"
 3. 登录成功后，浏览器会通过 `genaura://` 协议自动唤起桌面应用，并自动完成授权换 token。
 4. 桌面应用自动跳转到品牌工作区，登录完成。
 
-![Image](/images/image-8.png "Image")
+<Frame>
+  ![Image](/images/image-51.png "Image")
+</Frame>
 
 > 提示：如果浏览器没有自动打开，请检查系统是否将 `genaura://` 协议关联到 简曜 应用。也可以手动复制浏览器地址栏中的登录链接，登录完成后回到 简曜 应用即可。
 
