@@ -11,7 +11,9 @@ title: "文件编辑器"
 
 此外，编辑器还提供文档导出（Markdown / Word / PDF）、选中文本加入对话、与文章发布等高频能力。
 
-![EE047C63 2DE1 4DB0 8892 FDA971E0C924](/images/EE047C63-2DE1-4DB0-8892-FDA971E0C924.png "EE047C63 2DE1 4DB0 8892 FDA971E0C924")
+<Frame>
+  ![Image](/images/image-82.png "Image")
+</Frame>
 
 读完本文，你将能够：
 
