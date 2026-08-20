@@ -8,7 +8,9 @@ title: "知识库"
 
 知识库以「系统目录 \+ 自定义目录」的混合树形结构组织，支持本地文件导入、网页链接剪藏、全文检索、文件夹分类管理、拖拽移动，以及将文件作为引用发送到对话中让 AI 基于这些资料作答。
 
-![Image](/images/image-34.png "Image")
+<Frame>
+  ![Image](/images/image-77.png "Image")
+</Frame>
 
 读完本文，你将能够：
 
@@ -48,7 +50,9 @@ title: "知识库"
 
 点击列表中的文件节点会进入编辑器视图（详见 [文件编辑器](/how-to/09-file-editor)），点击工具栏「搜索」按钮会进入搜索视图，点击左上角返回按钮可回到列表视图。
 
-![Image](/images/image-43.png "Image")
+<Frame>
+  ![6d629af73c264d52b365d0958a5e1c48](/images/6d629af73c264d52b365d0958a5e1c48.png "6d629af73c264d52b365d0958a5e1c48")
+</Frame>
 
 ### 2. 系统目录结构
 
@@ -105,7 +109,9 @@ title: "知识库"
    - **多文件成功**：返回列表视图并刷新目录树。
    - **失败**：在汇总区列出失败文件及原因，可点击「重试」重新选择。
 
-![Image](/images/image-35.png "Image")
+<Frame>
+  ![Image](/images/image-78.png "Image")
+</Frame>
 
 #### 限制与异常
 
@@ -125,7 +131,9 @@ title: "知识库"
 3. 等待抓取：按钮显示加载图标，系统会自动提取网页正文并转换为 Markdown。
 4. 导入成功后，对话框显示绿色成功提示，并自动跳转到该文件的编辑器视图。
 
-![Image](/images/image-36.png "Image")
+<Frame>
+  ![Image](/images/image-79.png "Image")
+</Frame>
 
 #### 默认目录与命名
 
@@ -166,7 +174,9 @@ title: "知识库"
    - **全部折叠 / 全部展开**：切换所有文件节点的折叠状态。
 7. 点击左上角「返回」按钮回到列表视图。
 
-![Image](/images/image-44.png "Image")
+<Frame>
+  ![Image](/images/image-80.png "Image")
+</Frame>
 
 #### 结果概览
 
@@ -227,7 +237,9 @@ title: "知识库"
 3. 该节点会以标签形式插入到对话输入框。
 4. 支持多选：按住 Ctrl/Cmd 多选节点后，再右键「添加至对话」会一次性插入多个标签。
 
-![Image](/images/image-38.png "Image")
+<Frame>
+  ![Image](/images/image-81.png "Image")
+</Frame>
 
 #### 支持范围
 
