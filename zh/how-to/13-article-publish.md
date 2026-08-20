@@ -229,7 +229,9 @@ flowchart TD
   - **编辑**（铅笔图标）：展开内联表单，修改发布链接。链接变更时会重新解析渠道、抓取新标题，并将状态重置为「已发布」。
   - **删除**（垃圾桶图标）：弹出删除确认弹窗，确认后删除该记录。
 
-![E8642e172c4747adaece33c0b7e3d210](/images/e8642e172c4747adaece33c0b7e3d210.png "E8642e172c4747adaece33c0b7e3d210")
+<Frame>
+  ![2d4e5529d7df4ab78ea263ae529051d9](/images/2d4e5529d7df4ab78ea263ae529051d9.png "2d4e5529d7df4ab78ea263ae529051d9")
+</Frame>
 
 ## 进阶用法
 
