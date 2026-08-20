@@ -104,7 +104,9 @@ AI 平台跟踪决定了哪些平台会参与批量搜索。可跟踪的 5 个 A
 
 切换到「**定时任务**」Tab 即可查看与编辑。
 
-![Group 71 2](/images/Group-71-2.png "Group 71 2")
+<Frame>
+  ![Image](/images/image-95.png "Image")
+</Frame>
 
 #### 处理登录态接管
 
