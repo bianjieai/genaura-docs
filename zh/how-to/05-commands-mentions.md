@@ -17,9 +17,7 @@ title: "命令与提及"
 - 使用 `@` 提及将知识库文件或目录作为附件发送给 AI。
 - 通过键盘高效操作命令与提及面板。
 
-<Frame>
-  ![Image](/images/image-75.png "Image")
-</Frame>
+![Image](/images/image-75.png "Image")
 
 ---
 
