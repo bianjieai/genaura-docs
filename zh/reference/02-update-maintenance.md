@@ -11,7 +11,9 @@ title: "更新与维护"
 - **磁盘空间告警**：空间不足时如何提示、对自动更新有何影响
 - **深链接协议**（`genaura://` 链接）：用途与触发场景
 
-![D8ED0EEA D8EF 4F0E B04C 8216AD272579](/images/D8ED0EEA-D8EF-4F0E-B04C-8216AD272579.png "D8ED0EEA D8EF 4F0E B04C 8216AD272579")
+<Frame>
+  ![Image](/images/image-97.png "Image")
+</Frame>
 
 ---
 
