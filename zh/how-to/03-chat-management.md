@@ -1,4 +1,4 @@
----
+﻿---
 title: "对话管理"
 ---
 
@@ -23,7 +23,7 @@ title: "对话管理"
 
 ## 前置条件
 
-- 已按 [品牌管理](/how-to/01-brand-management) 创建并切换到某个品牌。
+- 已按 [品牌管理](/zh/how-to/01-brand-management) 创建并切换到某个品牌。
 - 已登录账号进入主工作区。
 
 ---
@@ -98,7 +98,7 @@ title: "对话管理"
   - **生成 GEO 文章**：基于品牌信息生成推广文章。
   - **优化品牌知识库**：让 AI 帮你梳理并优化知识库内容。
 
-> 快捷建议与输入框中的 `/` 指令一一对应，详见 [命令与提及](/how-to/05-commands-mentions)。
+> 快捷建议与输入框中的 `/` 指令一一对应，详见 [命令与提及](/zh/how-to/05-commands-mentions)。
 
 <Frame>
   ![6f5dc26c45cf4a0eb23f739c7f74ae7b](/images/6f5dc26c45cf4a0eb23f739c7f74ae7b.png "6f5dc26c45cf4a0eb23f739c7f74ae7b")
@@ -110,7 +110,7 @@ title: "对话管理"
 
 ### 对话与机会/风险的关联
 
-当 AI 在对话中识别到品牌机会或风险时，该对话会自动关联到对应的机会/风险条目。关联后，对话在列表中会显示机会或风险图标，便于你快速定位产生洞察的对话。详见 [机会与风险操作](/how-to/07-opportunities-risks)。
+当 AI 在对话中识别到品牌机会或风险时，该对话会自动关联到对应的机会/风险条目。关联后，对话在列表中会显示机会或风险图标，便于你快速定位产生洞察的对话。详见 [机会与风险操作](/zh/how-to/07-opportunities-risks)。
 
 ### 切换品牌后对话去哪了？
 
@@ -134,7 +134,7 @@ title: "对话管理"
 
 ### Q4：为什么有些对话显示时钟图标？
 
-带有时钟图标的对话表示该对话由**定时任务**自动触发创建，而非你手动发起。定时任务的配置详见 [定时任务](/how-to/12-cron-tasks)。
+带有时钟图标的对话表示该对话由**定时任务**自动触发创建，而非你手动发起。定时任务的配置详见 [定时任务](/zh/how-to/12-cron-tasks)。
 
 ### Q5：对话列表里的时间是实时的吗？
 
@@ -145,13 +145,13 @@ title: "对话管理"
 ## 相关文档
 
 - 前置阅读：
-  - [品牌管理](/how-to/01-brand-management)
-  - [界面总览](/getting-started/04-interface-overview)
+  - [品牌管理](/zh/how-to/01-brand-management)
+  - [界面总览](/zh/getting-started/04-interface-overview)
 - 关联操作：
-  - [消息收发](/how-to/04-messaging)（消息发送与操作）
-  - [命令与提及](/how-to/05-commands-mentions)（快捷指令与知识库引用）
-  - [机会与风险操作](/how-to/07-opportunities-risks)（对话与机会/风险关联）
-  - [定时任务](/how-to/12-cron-tasks)（定时任务触发的对话）
+  - [消息收发](/zh/how-to/04-messaging)（消息发送与操作）
+  - [命令与提及](/zh/how-to/05-commands-mentions)（快捷指令与知识库引用）
+  - [机会与风险操作](/zh/how-to/07-opportunities-risks)（对话与机会/风险关联）
+  - [定时任务](/zh/how-to/12-cron-tasks)（定时任务触发的对话）
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "机会与风险操作"
 ---
 
@@ -23,9 +23,9 @@ title: "机会与风险操作"
 
 ## 前置条件
 
-- 已按 [品牌管理](/how-to/01-brand-management) 创建并切换到某个品牌。
+- 已按 [品牌管理](/zh/how-to/01-brand-management) 创建并切换到某个品牌。
 - 品牌已完成配置并产生过 AI 分析结果（机会/风险由 AI 在分析过程中自动识别）。
-- 建议先了解 [对话管理](/how-to/03-chat-management)，因为机会/风险通常与对话关联。
+- 建议先了解 [对话管理](/zh/how-to/03-chat-management)，因为机会/风险通常与对话关联。
 
 ---
 
@@ -132,7 +132,7 @@ flowchart LR
 
 ### 机会与风险的来源
 
-机会与风险由 AI 在分析品牌数据（如 AI 平台搜索结果、知识库内容）时自动识别，无需手动创建。每次运行品牌诊断或定时任务后，可能会产生新的机会/风险。详见 [AI Agent 协作模型](/concepts/04-ai-agent) 与 [机会与风险概念](/concepts/05-opportunity-risk)。
+机会与风险由 AI 在分析品牌数据（如 AI 平台搜索结果、知识库内容）时自动识别，无需手动创建。每次运行品牌诊断或定时任务后，可能会产生新的机会/风险。详见 [AI Agent 协作模型](/zh/concepts/04-ai-agent) 与 [机会与风险概念](/zh/concepts/05-opportunity-risk)。
 
 ---
 
@@ -167,14 +167,14 @@ flowchart LR
 ## 相关文档
 
 - 前置阅读：
-  - [对话管理](/how-to/03-chat-management)（机会/风险与对话的关联）
-  - [界面总览](/getting-started/04-interface-overview)
+  - [对话管理](/zh/how-to/03-chat-management)（机会/风险与对话的关联）
+  - [界面总览](/zh/getting-started/04-interface-overview)
 - 概念理解：
-  - [机会与风险概念](/concepts/05-opportunity-risk)（识别机制与状态流转）
-  - [AI Agent 协作模型](/concepts/04-ai-agent)
+  - [机会与风险概念](/zh/concepts/05-opportunity-risk)（识别机制与状态流转）
+  - [AI Agent 协作模型](/zh/concepts/04-ai-agent)
 - 关联操作：
-  - [消息收发](/how-to/04-messaging)（在关联对话中继续探讨）
-  - [定时任务](/how-to/12-cron-tasks)（定期运行分析产生新机会/风险）
+  - [消息收发](/zh/how-to/04-messaging)（在关联对话中继续探讨）
+  - [定时任务](/zh/how-to/12-cron-tasks)（定期运行分析产生新机会/风险）
 
 ---
 
