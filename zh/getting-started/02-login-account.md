@@ -1,4 +1,4 @@
----
+﻿---
 title: "登录与账户"
 ---
 
@@ -17,7 +17,7 @@ title: "登录与账户"
 
 ## 前置条件
 
-- 已完成 简曜 安装（详见 [安装指南](/getting-started/01-installation)）
+- 已完成 简曜 安装（详见 [安装指南](/zh/getting-started/01-installation)）
 - 已在 Web 控制台注册账号，或准备在登录流程中注册
 - 电脑已设置默认浏览器（登录会通过默认浏览器打开授权页面）
 - 网络可访问 简曜 Web 控制台
@@ -73,9 +73,9 @@ title: "登录与账户"
 | 菜单项 | 说明 |
 | --- | --- |
 | 顶部个人中心行 | 显示头像 \+ 用户名 \+ 套餐标签。点击套餐标签或整行，会跳转到 Web 控制台的「订阅管理」页面 |
-| 通用设置 | 打开桌面应用的 [设置](/reference/01-settings) 对话框（通用设置分页） |
+| 通用设置 | 打开桌面应用的 [设置](/zh/reference/01-settings) 对话框（通用设置分页） |
 | 关于 | 打开桌面应用的设置对话框（关于分页），可查看应用版本等信息 |
-| 检查更新 / 重启完成更新 | 检查应用是否有新版本；下载完成后会变为「重启完成更新」（详见 [更新与维护](/reference/02-update-maintenance)） |
+| 检查更新 / 重启完成更新 | 检查应用是否有新版本；下载完成后会变为「重启完成更新」（详见 [更新与维护](/zh/reference/02-update-maintenance)） |
 | 主题 | 切换浅色 / 深色 / 跟随系统主题 |
 | 退出登录 | 退出当前账号，清除本地登录凭据，返回登录页 |
 
@@ -170,16 +170,16 @@ title: "登录与账户"
 ### Q7：在公共电脑上登录过 简曜，如何确保账号安全？
 
 1. 离开前在左下角账户菜单点击「退出登录」
-2. 卸载公共电脑上的 简曜 应用，或删除其用户数据目录（详见 [安装指南 - 卸载](/getting-started/01-installation#卸载)）
+2. 卸载公共电脑上的 简曜 应用，或删除其用户数据目录（详见 [安装指南 - 卸载](/zh/getting-started/01-installation#卸载)）
 3. 在自己的设备上登录 Web 控制台，进入「账户 → 设备管理」撤销公共电脑的会话
 
 ## 相关文档
 
-- 前置阅读：[安装指南](/getting-started/01-installation) —— 完成应用安装与首次启动
-- 下一步：[新手引导](/getting-started/03-onboarding) —— 跟随引导熟悉核心功能
-- 下一步：[界面总览](/getting-started/04-interface-overview) —— 认识工作区布局与账户菜单位置
-- 参考：[设置](/reference/01-settings) —— 通用设置、关于、主题、防系统休眠
-- 参考：[更新与维护](/reference/02-update-maintenance) —— 检查更新与重启安装
-- 参考：[数据隐私](/reference/03-data-privacy) —— 登录凭据与本地数据的安全存储
+- 前置阅读：[安装指南](/zh/getting-started/01-installation) —— 完成应用安装与首次启动
+- 下一步：[新手引导](/zh/getting-started/03-onboarding) —— 跟随引导熟悉核心功能
+- 下一步：[界面总览](/zh/getting-started/04-interface-overview) —— 认识工作区布局与账户菜单位置
+- 参考：[设置](/zh/reference/01-settings) —— 通用设置、关于、主题、防系统休眠
+- 参考：[更新与维护](/zh/reference/02-update-maintenance) —— 检查更新与重启安装
+- 参考：[数据隐私](/zh/reference/03-data-privacy) —— 登录凭据与本地数据的安全存储
 
 > 最后更新：2026-07-29 | 对应版本：v1.2.0

@@ -1,4 +1,4 @@
----
+﻿---
 title: "AI 平台工作流  "
 ---
 
@@ -159,7 +159,7 @@ flowchart TD
 | 查看品牌指数、AI 对话总量、提及率等综合指标 | 右侧面板「AI 洞察」Tab | 综合分析全局指标卡、品牌矩阵、行业竞品对比，可按时间/平台/问题类型筛选 |
 | 查看信源分布、信源排名、信源对比 | 右侧面板「偏好洞察」Tab | 基于引用来源聚合的信源分析 |
 
-详细查看操作见 [AI 洞察](/how-to/14-insight)、[情感分析](/how-to/15-emotion-analysis)、[偏好洞察](/how-to/16-preference-insight)。
+详细查看操作见 [AI 洞察](/zh/how-to/14-insight)、[情感分析](/zh/how-to/15-emotion-analysis)、[偏好洞察](/zh/how-to/16-preference-insight)。
 
 > 单次批量搜索的汇总报告（成功/失败/跳过计数、失败详情）由 Agent 直接在对话中返回，无需切换 Tab 即可看到本次执行结果。
 

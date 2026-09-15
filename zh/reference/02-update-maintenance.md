@@ -34,7 +34,7 @@ title: "更新与维护"
 - "设置 → 关于 → 更新"行会显示绿色闪烁的"重启完成更新"按钮
 - 点击该按钮，应用会关闭并启动安装程序，安装完成后自动重新启动应用
 
-> 重启安装会关闭所有窗口并退出当前进程。对话草稿由编辑器的草稿恢复机制自动保留，详见 [文件编辑器](/how-to/09-file-editor)。
+> 重启安装会关闭所有窗口并退出当前进程。对话草稿由编辑器的草稿恢复机制自动保留，详见 [文件编辑器](/zh/how-to/09-file-editor)。
 
 ### 更新状态展示
 
@@ -213,11 +213,11 @@ title: "更新与维护"
 
 ## 相关文档
 
-- [设置](https://docs.genaura.bianjie.ai/zh/reference/01-settings) — 通用设置与关于分区，更新入口位于"关于"
-- [安装指南](https://docs.genaura.bianjie.ai/zh/getting-started/01-installation) — 系统要求、下载与安装方式、首次启动
-- [登录与账号](https://docs.genaura.bianjie.ai/zh/getting-started/02-login-account) — 登录流程，深链接协议用于承接授权回调
-- [文件编辑器](https://docs.genaura.bianjie.ai/how-to/09-file-editor) — 草稿恢复机制，重启安装前未保存内容的兜底
-- [数据与隐私](https://docs.genaura.bianjie.ai/zh/reference/03-data-privacy) — 本地数据存储位置与磁盘空间守护的关联
+- [设置](/zh/reference/01-settings) — 通用设置与关于分区，更新入口位于"关于"
+- [安装指南](/zh/getting-started/01-installation) — 系统要求、下载与安装方式、首次启动
+- [登录与账号](/zh/getting-started/02-login-account) — 登录流程，深链接协议用于承接授权回调
+- [文件编辑器](/zh/how-to/09-file-editor) — 草稿恢复机制，重启安装前未保存内容的兜底
+- [数据与隐私](/zh/reference/03-data-privacy) — 本地数据存储位置与磁盘空间守护的关联
 
 ---
 

@@ -55,7 +55,7 @@ title: "概览"
 
 ## 相关文档
 
-- 快速开始：[安装指南](/getting-started/01-installation)
-- 核心概念：[品牌模型](/concepts/01-brand-model)、[工作流原理](/concepts/02-workflow)
+- 快速开始：[安装指南](/zh/getting-started/01-installation)
+- 核心概念：[品牌模型](/zh/concepts/01-brand-model)、[工作流原理](/zh/concepts/02-workflow)
 
 > 最后更新：2026-07-29 | 对应版本：v1.2.0

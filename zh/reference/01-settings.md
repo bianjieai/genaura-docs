@@ -97,7 +97,7 @@ title: "设置"
 | 下载完成 | 绿色闪烁按钮"重启完成更新" | 点击重启应用并安装更新 |
 | 检查失败 | 红色"检查更新失败" \+ 刷新图标 | 点击重新检查 |
 
-更新机制的完整说明见 [更新与维护](https://docs.genaura.bianjie.ai/zh/reference/02-update-maintenance)。
+更新机制的完整说明见 [更新与维护](/zh/reference/02-update-maintenance)。
 
 ### 3. 版权信息
 
@@ -136,7 +136,7 @@ title: "设置"
 
 ### Q5：更新检查失败，怎么手动重试？
 
-进入"设置 → 关于"，"更新"行会显示"检查更新失败"提示，点击右侧的刷新图标即可重新检查。如果多次失败，请检查网络连接或参考 [更新与维护](https://docs.genaura.bianjie.ai/zh/reference/02-update-maintenance) 中的常见问题。
+进入"设置 → 关于"，"更新"行会显示"检查更新失败"提示，点击右侧的刷新图标即可重新检查。如果多次失败，请检查网络连接或参考 [更新与维护](/zh/reference/02-update-maintenance) 中的常见问题。
 
 ### Q6：忘记账号密码，能从设置中找回吗？
 
@@ -146,11 +146,11 @@ title: "设置"
 
 ## 相关文档
 
-- [更新与维护](https://docs.genaura.bianjie.ai/zh/reference/02-update-maintenance) — 自动更新机制、检查更新与重启安装、磁盘空间告警
-- [数据与隐私](https://docs.genaura.bianjie.ai/zh/reference/03-data-privacy) — 数据存储位置、账号信息安全、安全审计
-- [快捷键参考](https://docs.genaura.bianjie.ai/zh/reference/04-keyboard-shortcuts) — 全局与各功能区的快捷键清单
-- [界面总览](https://docs.genaura.bianjie.ai/zh/getting-started/04-interface-overview) — 三栏布局与左侧导航的账户菜单位置
-- [登录与账号](https://docs.genaura.bianjie.ai/zh/getting-started/02-login-account) — 登录认证、账号体系、退出登录
+- [更新与维护](/zh/reference/02-update-maintenance) — 自动更新机制、检查更新与重启安装、磁盘空间告警
+- [数据与隐私](/zh/reference/03-data-privacy) — 数据存储位置、账号信息安全、安全审计
+- [快捷键参考](/zh/reference/04-keyboard-shortcuts) — 全局与各功能区的快捷键清单
+- [界面总览](/zh/getting-started/04-interface-overview) — 三栏布局与左侧导航的账户菜单位置
+- [登录与账号](/zh/getting-started/02-login-account) — 登录认证、账号体系、退出登录
 
 ---
 

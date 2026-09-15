@@ -1,4 +1,4 @@
----
+﻿---
 title: "子代理与审批"
 ---
 
@@ -20,7 +20,7 @@ title: "子代理与审批"
 
 ## 前置条件
 
-- 已按 [消息收发](/how-to/04-messaging) 了解基本的对话与消息渲染。
+- 已按 [消息收发](/zh/how-to/04-messaging) 了解基本的对话与消息渲染。
 - 已创建对话并与 AI 进行过交互。
 
 ---
@@ -146,11 +146,11 @@ flowchart LR
 ## 相关文档
 
 - 前置阅读：
-  - [消息收发](/how-to/04-messaging)（消息渲染与操作基础）
-  - [AI Agent 协作模型](/concepts/04-ai-agent)（主代理、子代理、审批的概念）
+  - [消息收发](/zh/how-to/04-messaging)（消息渲染与操作基础）
+  - [AI Agent 协作模型](/zh/concepts/04-ai-agent)（主代理、子代理、审批的概念）
 - 关联操作：
-  - [命令与提及](/how-to/05-commands-mentions)（通过指令触发复杂任务）
-  - [知识库管理](/how-to/08-knowledge-base)（工具调用涉及的知识库文件）
+  - [命令与提及](/zh/how-to/05-commands-mentions)（通过指令触发复杂任务）
+  - [知识库管理](/zh/how-to/08-knowledge-base)（工具调用涉及的知识库文件）
 
 ---
 
