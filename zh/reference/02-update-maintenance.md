@@ -12,6 +12,10 @@ title: "更新与维护"
 - **深链接协议**（`genaura://` 链接）：用途与触发场景
 
 <Frame>
+  ![Image](/images/Snipaste_2026-09-22_17-00-29.png "Image")
+</Frame>
+
+<Frame>
   ![Image](/images/image-97.png "Image")
 </Frame>
 
